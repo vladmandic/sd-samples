@@ -5,7 +5,7 @@
     --text-color: #e0e0e0;
     --border-color: #4a4a4a;
     --header-color: #ffffff;
-    --accent-color: #00aaff;
+    --accent-color: teal;
 }
 
 body {
@@ -51,7 +51,6 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10px;
-    font-weight: bold;
     color: var(--header-color);
     text-align: center;
     background-color: var(--primary-surface-color);
