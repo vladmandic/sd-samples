@@ -17,6 +17,7 @@ import time
 import json
 import base64
 import logging
+from logging.handlers import RotatingFileHandler
 import requests
 import urllib3
 import pathvalidate
@@ -71,9 +72,7 @@ def write_images(repo:str, style:str, image:str='', size:tuple=(0,0), generate:f
 
 
 def write_model(dct: dict):
-    model_name = dct['model']
-    if any(m['model'] == dct['model'] for m in models_data):
-        log.info(f'model: already exists model="{model_name}"')
+    if any(m['model'] == dct['model'] for m in models_data): # already exists
         return
     fn = os.path.join(output_models)
     dct['modules'] = [m for m in dct['modules'] if m['params'] > 0]
@@ -112,7 +111,7 @@ def main(): # pylint: disable=redefined-outer-name
         log.info(f'model: n={idx_model+1}/{len(models)} name="{model}"')
         idx_style = 0
         loaded_model = None
-        for s, style in enumerate(styles):
+        for s, (style, prompt) in enumerate(styles.items()):
             try:
                 model_name = pathvalidate.sanitize_filename(model, replacement_text='_')
                 style_name = pathvalidate.sanitize_filename(style, replacement_text='_')
@@ -133,7 +132,7 @@ def main(): # pylint: disable=redefined-outer-name
                     write_model(model_dct)
                     loaded_model = model
                 t_style0 = time.time()
-                params = { 'styles': [style] }
+                params = { 'prompt': prompt }
                 for k, v in args.items():
                     params[k] = v
                 log.info(f' style: n={s+1}/{len(styles)} name="{style}" args={params} fn="{fn}"')
@@ -180,6 +179,10 @@ def main(): # pylint: disable=redefined-outer-name
 if __name__ == "__main__":
     logging.basicConfig(level = logging.INFO, format = '%(asctime)s %(levelname)s: %(message)s')
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+    fh = RotatingFileHandler('compare.log', maxBytes=32*1024*1024, backupCount=0, encoding='utf-8', delay=True) # 10MB default for log rotation
+    fh.formatter = logging.Formatter('%(asctime)s | %(levelname)s | %(message)s')
+    fh.setLevel(logging.DEBUG)
+    log.addHandler(fh)
     log.info('test-all-models')
     log.info(f'output="{output_folder}" images="{output_images}" models="{output_models}"')
     read_history()

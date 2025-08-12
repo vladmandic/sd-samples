@@ -34,9 +34,10 @@ async function filterGrid() {
 async function showDetails(item) {
     // const info = JSON.parse(item.info);
     const detailsContent = document.getElementById('details-content');
-    const model = modelMap[item.repo];
+    const model = modelMap[item.title];
+    if (!model) console.error('details', item, modelMap);
     let modules = model.modules.sort((a, b) => b.params - a.params);
-    modules = modules.map(m => `<div class="module" title="module size is in milion of parameters">${m.class} ${Math.round(m.params/1024/1024).toLocaleString()} MP</div>`).join(' ');
+    modules = modules.map(m => `<div class="module" title="module size is in milion of parameters">${m.class}: ${Math.round(m.params/1024/1024).toLocaleString()} MP</div>`).join(' ');
     detailsContent.innerHTML = `
       <img src="images/${encodeURIComponent(item.image)}" alt="${item.title}">
       <div class="container">
@@ -60,9 +61,8 @@ async function showDetails(item) {
 }
 
 async function main() {
-  const modelData = await fetchData('models.json');
-  const imageData = await fetchData('images.json');
-  imageData.forEach(item => item.style = item.style.replace('Fixed ', ''));
+  const modelData = await fetchData('../models.json');
+  const imageData = await fetchData('../images.json');
 
   // extract models and styles
   let uniqueTitles = [...new Set(imageData.map(item => item.title))];
@@ -85,7 +85,8 @@ async function main() {
     dataMap[item.style][item.title] = item;
   });
   modelData.forEach(item => {
-    modelMap[item.repo] = item;
+    item.shortName = item.repo.split('/').pop();
+    modelMap[item.shortName] = item;
   });
 
   // create headers
@@ -94,7 +95,8 @@ async function main() {
       titleEl.className = 'axis-title';
       titleEl.textContent = title;
       model = modelMap[title];
-      titleEl.title = `${model.model} ${model.type} ${model.class}`;
+      if (model) titleEl.title = `${model.model} ${model.type} ${model.class}`;
+      else console.error('model', title, modelMap)
       xAxisHeader.appendChild(titleEl);
   });
   uniqueStyles.forEach(style => {
@@ -110,13 +112,14 @@ async function main() {
           const cell = document.createElement('div');
           cell.className = 'grid-cell';
           const itemData = dataMap[style] ? dataMap[style][title] : null; // lookup item
-          model = modelMap[title];
           if (itemData) {
               const img = document.createElement('img');
               img.loading = 'lazy';
               img.src = `thumbs/${encodeURIComponent(itemData.image)}`;
               img.alt = `${itemData.title} - ${itemData.style}`;
-              img.title = `${itemData.title} | ${model.model} | ${model.type} | ${model.class} | ${itemData.style}`;
+              model = modelMap[title];
+              if (model) img.title = `${itemData.title} | ${model.model} | ${model.type} | ${model.class} | ${itemData.style}`;
+          
               cell.appendChild(img);
               cell.addEventListener('mouseover', () => showDetails(itemData));
           } else {

@@ -1,4 +1,7 @@
 pnpm-lock.yaml
 node_modules/
 venv/
+tmp/
 __pycache__
+*.log
+*.tmp
