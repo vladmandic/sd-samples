@@ -1,0 +1,252 @@
+@font-face {
+  font-display: swap;
+  font-family: 'NotoSans';
+  font-style: normal;
+  font-weight: 100;
+  src: local('NotoSansNerd'), url('assets/notosans-nerdfont-regular.ttf')
+}
+
+:root {
+    --bg-color: #1a1a1a;
+    --primary-surface-color: #2c2c2c;
+    --secondary-surface-color: #3a3a3a;
+    --text-color: #e0e0e0;
+    --border-color: #4a4a4a;
+    --header-color: #ffffff;
+    --accent-color: teal;
+}
+
+body {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+body, input, button, h1 {
+  font-family: 'NotoSans', sans-serif;
+}
+
+.gallery-wrapper {
+    flex-grow: 1;
+    display: grid;
+    grid-template-columns: 60px 1fr; /* Y-Axis column and main content */
+    grid-template-rows: 60px 1fr;    /* X-Axis row and main content */
+    height: 100%;
+}
+
+.x-axis-header {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    display: flex;
+    background-color: var(--bg-color);
+    border-bottom: 2px solid var(--border-color);
+    overflow-x: auto;
+}
+
+.y-axis-header {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bg-color);
+    border-right: 2px solid var(--border-color);
+    overflow-y: auto;
+}
+
+.axis-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+    color: var(--header-color);
+    text-align: center;
+    background-color: var(--primary-surface-color);
+    border: 1px solid var(--border-color);
+    flex-shrink: 0;
+    cursor: cell;
+}
+
+.x-axis-header .axis-title {
+    width: 136px;
+    border-top: none;
+    border-bottom: none;
+}
+
+.y-axis-header .axis-title {
+    height: 136px;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    border-left: none;
+    border-right: none;
+}
+
+.corner {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    background-color: var(--bg-color);
+    border-right: 2px solid var(--border-color);
+    border-bottom: 2px solid var(--border-color);
+}
+
+.grid-container {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    overflow: auto;
+    display: grid;
+}
+
+.grid-cell {
+    width: 128px;
+    height: 128px;
+    margin: 18px;
+    background-color: var(--primary-surface-color);
+    border: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grid-cell:hover:not(.empty) {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px var(--accent-color);
+    z-index: 10;
+}
+
+.grid-cell.empty {
+    background-color: var(--secondary-surface-color);
+    cursor: default;
+}
+
+.grid-cell img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+/* Details Panel */
+.details-container {
+    max-width: fit-content;
+    flex-shrink: 0;
+    background-color: var(--primary-surface-color);
+    overflow-y: auto;
+    border-left: 2px solid var(--border-color);
+}
+
+.details-container h2 {
+    margin-top: 0;
+    color: var(--header-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
+.details-container #details-content {
+    max-width: 1024px;
+}
+
+.details-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.details-container p {
+    line-height: 1.1;
+    margin: 0px 0px 8px 2px;
+}
+
+.details-container strong {
+        color: var(--accent-color);
+}
+
+.details-container .info-block {
+    background-color: var(--bg-color);
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+    word-wrap: break-word;
+}
+
+#details-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Customize the entire scrollbar */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+  height: 12px; /* Height for horizontal scrollbar */
+}
+
+/* Track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+  background: #666;
+  }
+
+/* Handle (scroll thumb) */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
+
+.container {
+  display: flex;
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.module {
+  font-size: 0.9em;
+  padding-left: 18px;
+  filter: brightness(0.8);
+}
+
+.header {
+  display: flex;
+  margin-left: 60px;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.filter {
+  margin-left: 60px;
+  font-size: 1.5em;
+  padding: 8px;
+  height: 16px;
+  align-self: center;
+  background: var(--secondary-surface-color);
+  color: white;
+  border: none;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.filter:focus, .filter:hover {
+  background: var(--accent-color);
+}
+
+.main-container {
+  flex-grow: 1;
+}

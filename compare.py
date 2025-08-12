@@ -21,109 +21,65 @@ import requests
 import urllib3
 import pathvalidate
 from PIL import Image
+from config import models, styles
 
 
-logging.basicConfig(level = logging.INFO, format = '%(asctime)s %(levelname)s: %(message)s')
 log = logging.getLogger(__name__)
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-
-output_folder = 'outputs/compare'
-models = {
-    "sdxl-base-v10-vaefix": {},
-    "tempest-by-vlad-0.1": {},
-    "icbinpXL_v6": {},
-    "briaai/BRIA-3.2": {},
-    "Freepik/F-Lite": {},
-    "Freepik/F-Lite-Texture": {},
-    "ostris/Flex.2-preview": {},
-    "playgroundai/playground-v2-1024px-aesthetic": {},
-    "playground-v2.5-1024px-aesthetic.fp16": { "sampler_name": "DPM++ 2M EDM" },
-    "stabilityai/stable-diffusion-3.5-medium": {},
-    "stabilityai/stable-diffusion-3.5-large": {},
-    "fal/AuraFlow-v0.3": {},
-    "fal/AuraFlow-v0.2": {},
-    "zai-org/CogView4-6B": {},
-    "zai-org/CogView3-Plus-3B": {},
-    "Qwen/Qwen-Image": {},
-    "vladmandic/Qwen-Lightning": {},
-    "Shitao/OmniGen-v1-diffusers": {},
-    "OmniGen2/OmniGen2": {},
-    "Kwai-Kolors/Kolors-diffusers": {},
-    "kandinsky-community/kandinsky-2-2-decoder": {},
-    "kandinsky-community/kandinsky-2-1": {},
-    "kandinsky-community/kandinsky-3": {}, # corrupt output
-    "Alpha-VLLM/Lumina-Next-SFT-diffusers": {},
-    "Alpha-VLLM/Lumina-Image-2.0": {},
-    "MeissonFlow/Meissonic": {},
-    "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers": {},
-    "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers": {},
-    "PixArt-alpha/PixArt-XL-2-1024-MS": {},
-    "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS": {},
-    "stabilityai/stable-cascade": {},
-    "nvidia/Cosmos-Predict2-2B-Text2Image": {},
-    "nvidia/Cosmos-Predict2-14B-Text2Image": {},
-    "black-forest-labs/FLUX.1-dev": {},
-    "black-forest-labs/FLUX.1-Kontext-dev": {},
-    "black-forest-labs/FLUX.1-Krea-dev": {},
-    "lodestones/Chroma1-HD": {},
-    "vladmandic/chroma-unlocked-v50-annealed": {},
-    "vladmandic/chroma-unlocked-v48": {},
-    "vladmandic/chroma-unlocked-v48-detail-calibrated": {},
-    "Wan-AI/Wan2.1-T2V-1.3B-Diffusers": {},
-    "Wan-AI/Wan2.1-T2V-14B-Diffusers": {},
-    "Wan-AI/Wan2.2-TI2V-5B-Diffusers": {},
-    "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers": {},
-    "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers": {},
-    # "HiDream-ai/HiDream-I1-Full": {}, # extreme memory usage due to size
-    # "Wan-AI/Wan2.2-T2V-A14B-Diffusers": {}, # extreme memory usage due to size
-}
-styles = [
-    'Fixed Astronaut',
-    'Fixed Bear',
-    'Fixed Steampunk City',
-    'Fixed Road sign',
-    'Fixed Futuristic hypercar',
-    'Fixed Pirate Ship in Space',
-    'Fixed Fallout girl',
-    'Fixed Kneeling on Bed',
-    'Fixed Girl in Sin City',
-    'Fixed Girl in a city',
-    'Fixed Girl in Lace',
-    'Fixed Lady in Tokyo',
-    'Fixed MadMax selfie',
-    'Fixed Party Yacht',
-    'Fixed Yoga Girls',
-    'Fixed SDNext Neon',
-]
-history = []
+output_folder = 'images'
+output_thumb = 'thumbs'
+output_images = 'images.json'
+output_models = 'models.json'
+output_details = False
+thumb_size = (128,128)
+images_data = []
+models_data = []
 
 
 def read_history():
-    global history # pylint: disable=global-statement
-    fn = os.path.join(output_folder, 'history.json')
-    if not os.path.exists(fn):
-        return
-    with open(fn, "r", encoding='utf8') as file:
-        data = file.read()
-        history = json.loads(data)
-    log.info(f'history: file="{fn}" records={len(history)}')
+    global images_data, models_data # pylint: disable=global-statement
+    if os.path.exists(output_images):
+        with open(output_images, "r", encoding='utf8') as file:
+            data = file.read()
+            images_data = json.loads(data)
+    log.info(f'history: type=images file="{output_images}" records={len(images_data)}')
+    if os.path.exists(output_models):
+        with open(output_models, "r", encoding='utf8') as file:
+            data = file.read()
+            models_data = json.loads(data)
+    log.info(f'history: type=models file="{output_models}" records={len(models_data)}')
 
 
-def write_history(model:str, style:str, image:str='', size:tuple=(0,0), generate:float=0, load:float=0, info:str=''):
-    fn = os.path.join(output_folder, 'history.json')
-    history.append({
-        'model': model,
-        'title': model.split('/')[-1].replace('_diffusers', '').replace('-diffusers', ''),
+def write_images(repo:str, style:str, image:str='', size:tuple=(0,0), generate:float=0, params:dict={}, info:str=''):
+    fn = os.path.join(output_images)
+    info = json.loads(info)
+    images_data.append({
+        'repo': repo,
+        'title': repo.split('/')[-1].replace('_diffusers', '').replace('-diffusers', ''),
         'style': style,
         'image': image,
         'size': size,
         'time': generate,
-        'load': load,
-        'info': info,
+        'prompt': info.get('prompt', ''),
+        'seed': info.get('seed', 0),
+        'steps': info.get('steps', 0),
+        'params': params if output_details else {},
+        'info': info if output_details else {},
     })
     with open(fn, "w", encoding='utf8') as file:
-        data = json.dumps(history) # pylint: disable=no-member
+        data = json.dumps(images_data, indent=2) # pylint: disable=no-member
+        file.write(data)
+
+
+def write_model(dct: dict):
+    model_name = dct['model']
+    if any(m['model'] == dct['model'] for m in models_data):
+        log.info(f'model: already exists model="{model_name}"')
+        return
+    fn = os.path.join(output_models)
+    dct['modules'] = [m for m in dct['modules'] if m['params'] > 0]
+    models_data.append(dct)
+    with open(fn, "w", encoding='utf8') as file:
+        data = json.dumps(models_data, indent=2) # pylint: disable=no-member
         file.write(data)
 
 
@@ -136,7 +92,7 @@ def request(endpoint: str, dct: dict = None, method: str = 'POST'):
     sd_username = os.environ.get('SDAPI_USR', None)
     sd_password = os.environ.get('SDAPI_PWD', None)
     method = requests.post if method.upper() == 'POST' else requests.get
-    req = method(f'{sd_url}{endpoint}', json = dct, timeout=120000, verify=False, auth=auth())
+    req = method(f'{sd_url}{endpoint}', json = dct, timeout=300000, verify=False, auth=auth())
     if req.status_code != 200:
         return { 'error': req.status_code, 'reason': req.reason, 'url': req.url }
     else:
@@ -148,12 +104,14 @@ def main(): # pylint: disable=redefined-outer-name
     idx_images = 0
     t_generate0 = time.time()
     log.info(f'generate: models={len(models)} styles={len(styles)}')
+    request('/sdapi/v1/unload-checkpoint', method='POST')
     for model, args in models.items():
         t_model0 = time.time()
         idx_model += 1
         model_name = pathvalidate.sanitize_filename(model, replacement_text='_')
         log.info(f'model: n={idx_model+1}/{len(models)} name="{model}"')
         idx_style = 0
+        loaded_model = None
         for s, style in enumerate(styles):
             try:
                 model_name = pathvalidate.sanitize_filename(model, replacement_text='_')
@@ -161,13 +119,19 @@ def main(): # pylint: disable=redefined-outer-name
                 fn = os.path.join(output_folder, f'{model_name}__{style_name}.jpg')
                 if os.path.exists(fn):
                     continue
-                t_load0 = time.time()
-                request(f'/sdapi/v1/checkpoint?sd_model_checkpoint={model}', method='POST')
-                loaded = request('/sdapi/v1/checkpoint', method='GET')
-                t_load1 = time.time()
-                if not loaded or not (model in loaded.get('checkpoint') or model in loaded.get('title') or model in loaded.get('name')):
-                    log.error(f' model: error="{model}"')
-                    continue
+                if loaded_model != model:
+                    t_load0 = time.time()
+                    request(f'/sdapi/v1/checkpoint?sd_model_checkpoint={model}', method='POST')
+                    checkpoint = request('/sdapi/v1/checkpoint', method='GET')
+                    t_load1 = time.time()
+                    if not checkpoint or not (model in checkpoint.get('checkpoint') or model in checkpoint.get('title') or model in checkpoint.get('name')):
+                        log.error(f' model: error="{model}"')
+                        continue
+                    model_dct = request('/sdapi/v1/modules', method='GET')
+                    model_dct['load'] = round(t_load1-t_load0, 3)
+                    model_dct['repo'] = model
+                    write_model(model_dct)
+                    loaded_model = model
                 t_style0 = time.time()
                 params = { 'styles': [style] }
                 for k, v in args.items():
@@ -180,10 +144,24 @@ def main(): # pylint: disable=redefined-outer-name
                     idx_images += 1
                     b64 = data['images'][0].split(',',1)[0]
                     image = Image.open(io.BytesIO(base64.b64decode(b64)))
+                    size = image.size
                     info = data['info']
+                    params = data['parameters']
                     log.info(f' image: size={image.width}x{image.height} time={t_style1-t_style0:.2f} info={len(info)}')
-                    image.save(fn)
-                    write_history(model=model, style=style, image=fn, size=image.size, generate=round(t_style1-t_style0, 3), load=round(t_load1-t_load0, 3), info=info)
+                    image.save(fn, quality=85)
+                    basename = os.path.basename(fn)
+                    fn = os.path.join(output_thumb, basename)
+                    image.thumbnail(thumb_size, Image.Resampling.LANCZOS)
+                    image.save(fn, quality=65)
+                    write_images(
+                        repo=model,
+                        style=style,
+                        image=basename,
+                        size=size,
+                        generate=round(t_style1-t_style0, 3),
+                        params=params,
+                        info=info,
+                    )
                 else:
                     log.error(f' model: error="{model}" style="{style}" no image')
             except Exception as e:
@@ -200,7 +178,9 @@ def main(): # pylint: disable=redefined-outer-name
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level = logging.INFO, format = '%(asctime)s %(levelname)s: %(message)s')
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     log.info('test-all-models')
-    log.info(f'output="{output_folder}"')
+    log.info(f'output="{output_folder}" images="{output_images}" models="{output_models}"')
     read_history()
     main()

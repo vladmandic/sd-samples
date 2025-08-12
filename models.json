@@ -1,0 +1,174 @@
+[
+  {
+    "model": "base/sdxl-base-v10-vaefix",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938078334,
+    "mtime": "2023-11-25 08:38:38",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 3.431,
+    "repo": "sdxl-base-v10-vaefix"
+  },
+  {
+    "model": "mine/tempest-by-vlad-0.1",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938089790,
+    "mtime": "2025-01-17 16:03:23",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 3.694,
+    "repo": "tempest-by-vlad-0.1"
+  },
+  {
+    "model": "sdxl/icbinpXL_v6",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938042106,
+    "mtime": "2025-01-20 17:39:28",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 13.328,
+    "repo": "icbinpXL_v6"
+  },
+  {
+    "model": "pony/pony-diffusion_v6",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938041050,
+    "mtime": "2024-03-09 08:59:48",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 45.785,
+    "repo": "pony-diffusion_v6"
+  }
+]

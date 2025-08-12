@@ -1,23 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SD.Next Model Test Gallery</title>
-    <link rel="stylesheet" href="compare.css">
-    <script src="compare.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SD.Next: Model Test Gallery</title>
+  <link rel="icon" href="assets/compare.png" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" href="assets/nerdfont.css">
+  <link type="text/css" rel="stylesheet" href="assets/compare.css">
+  <script src="assets/compare.js"></script>
 </head>
 <body>
-    <div class="gallery-wrapper">
-        <div class="corner"></div>
-        <div class="x-axis-header" id="x-axis-header"></div>
-        <div class="y-axis-header" id="y-axis-header"></div>
-        <div class="grid-container" id="grid-container"></div>
+  <div class="main-container">
+    <div class="header">
+      <h1>SD.Next: Model Test Gallery</h1>
+      <input type="text" id="filter" class="filter" placeholder="filter images" oninput="filterGallery()">
     </div>
+    <div class="gallery-wrapper">
+      <div class="corner"></div>
+      <div class="x-axis-header" id="x-axis-header"></div>
+      <div class="y-axis-header" id="y-axis-header"></div>
+      <div class="grid-container" id="grid-container"></div>
+    </div>
+  </div>
     <div class="details-container" id="details-container">
-        <div id="details-content">
-            <div id="details-placeholder"></div>
-        </div>
+      <div id="details-content">
+        <div id="details-placeholder"></div>
+      </div>
     </div>
 </body>
 </html>
