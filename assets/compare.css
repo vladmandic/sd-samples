@@ -3,7 +3,7 @@
   font-family: 'NotoSans';
   font-style: normal;
   font-weight: 100;
-  src: local('NotoSansNerd'), url('assets/notosans-nerdfont-regular.ttf')
+  src: local('NotoSansNerd'), url('notosans-nerdfont-regular.ttf')
 }
 
 :root {

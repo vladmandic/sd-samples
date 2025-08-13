@@ -70,8 +70,8 @@ async function showDetails(item) {
 }
 
 async function main() {
-  const modelData = await fetchData('../models.json');
-  const imageData = await fetchData('../images.json');
+  const modelData = await fetchData('models.json');
+  const imageData = await fetchData('images.json');
 
   // extract models and styles
   let uniqueTitles = [...new Set(imageData.map(item => item.title))];
