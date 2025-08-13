@@ -35,8 +35,10 @@ body, input, button, h1 {
     flex-grow: 1;
     display: grid;
     grid-template-columns: 60px 1fr; /* Y-Axis column and main content */
-    grid-template-rows: 60px 1fr;    /* X-Axis row and main content */
-    height: 100%;
+    grid-template-rows: 74px 1fr;    /* X-Axis row and main content */
+    width: calc(100vw - 1026px);
+    height: calc(100vh - 52px);
+    overflow: auto;
 }
 
 .x-axis-header {
@@ -45,7 +47,8 @@ body, input, button, h1 {
     display: flex;
     background-color: var(--bg-color);
     border-bottom: 2px solid var(--border-color);
-    overflow-x: auto;
+    width: 100%;
+    height: 100%
 }
 
 .y-axis-header {
@@ -55,7 +58,8 @@ body, input, button, h1 {
     flex-direction: column;
     background-color: var(--bg-color);
     border-right: 2px solid var(--border-color);
-    overflow-y: auto;
+    width: 100%;
+    height: 100%;
 }
 
 .axis-title {
@@ -69,6 +73,11 @@ body, input, button, h1 {
     border: 1px solid var(--border-color);
     flex-shrink: 0;
     cursor: cell;
+}
+
+.axis-title:hover {
+    background-color: var(--secondary-surface-color);
+    box-shadow: 0 0 10px var(--accent-color);
 }
 
 .x-axis-header .axis-title {
@@ -187,13 +196,13 @@ body, input, button, h1 {
 
 /* Customize the entire scrollbar */
 ::-webkit-scrollbar {
-  width: 12px; /* Width of the scrollbar */
-  height: 12px; /* Height for horizontal scrollbar */
+  width: 18px; /* Width of the scrollbar */
+  height: 18px; /* Height for horizontal scrollbar */
 }
 
 /* Track (background of the scrollbar) */
 ::-webkit-scrollbar-track {
-  background: #666;
+  background: var(--bg-color);
   }
 
 /* Handle (scroll thumb) */
@@ -228,8 +237,16 @@ body, input, button, h1 {
   margin-left: 60px;
 }
 
-h1 {
+.heading {
   font-size: 1.5em;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  text-decoration: unset;
+  color: unset;
 }
 
 .filter {

@@ -1,0 +1,2229 @@
+[
+  {
+    "model": "base/sdxl-base-v10-vaefix",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938078334,
+    "mtime": "2023-11-25 08:38:38",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 19.081,
+    "repo": "sdxl-base-v10-vaefix"
+  },
+  {
+    "model": "mine/tempest-by-vlad-0.1",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938089790,
+    "mtime": "2025-01-17 16:03:23",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.032,
+    "repo": "tempest-by-vlad-0.1"
+  },
+  {
+    "model": "sdxl/icbinpXL_v6",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938042106,
+    "mtime": "2025-01-20 17:39:28",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 16.01,
+    "repo": "icbinpXL_v6"
+  },
+  {
+    "model": "sdxl/PrometheusV1",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938084280,
+    "mtime": "2024-08-29 12:07:03",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 13.933,
+    "repo": "PrometheusV1"
+  },
+  {
+    "model": "sdxl/Epicrealismxl_Hades",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938040682,
+    "mtime": "2024-05-31 16:19:22",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.036,
+    "repo": "Epicrealismxl_Hades"
+  },
+  {
+    "model": "sdxl/juggernautXL_juggXIByRundiffusion",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 7105350536,
+    "mtime": "2025-08-12 16:44:17",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.099,
+    "repo": "juggernautXL_juggXIByRundiffusion"
+  },
+  {
+    "model": "sdxl/juggernautXL_ragnarokBy",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 7105350162,
+    "mtime": "2025-08-12 16:43:30",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.084,
+    "repo": "juggernautXL_ragnarokBy"
+  },
+  {
+    "model": "sdxl/AnythingXL_xl",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938041578,
+    "mtime": "2025-08-12 16:44:02",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 13.559,
+    "repo": "AnythingXL_xl"
+  },
+  {
+    "model": "sdxl/perfectdeliberate_XL",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938041618,
+    "mtime": "2025-08-09 14:55:43",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.18,
+    "repo": "perfectdeliberate_XL"
+  },
+  {
+    "model": "Diffusers/stabilityai/stable-diffusion-3.5-medium",
+    "type": "sd3",
+    "class": "StableDiffusion3Pipeline",
+    "size": 0,
+    "mtime": "2025-08-10 19:58:45",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 123650304,
+        "modules": 153,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 393,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "SD3Transformer2DModel",
+        "params": 2243171520,
+        "modules": 1433,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 29.971,
+    "repo": "stabilityai/stable-diffusion-3.5-medium"
+  },
+  {
+    "model": "Diffusers/stabilityai/stable-diffusion-3.5-large",
+    "type": "sd3",
+    "class": "StableDiffusion3Pipeline",
+    "size": 0,
+    "mtime": "2025-08-10 20:11:58",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 123650304,
+        "modules": 153,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 393,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "SD3Transformer2DModel",
+        "params": 8056627520,
+        "modules": 1992,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 43.034,
+    "repo": "stabilityai/stable-diffusion-3.5-large"
+  },
+  {
+    "model": "Diffusers/stabilityai/stable-cascade",
+    "type": "sc",
+    "class": "StableCascadeCombinedPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 11:08:20",
+    "modules": [
+      {
+        "class": "StableCascadeUNet",
+        "params": 1562941136,
+        "modules": 2570,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "PaellaVQModel",
+        "params": 18406894,
+        "modules": 168,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 24.62,
+    "repo": "stabilityai/stable-cascade"
+  },
+  {
+    "model": "Diffusers/black-forest-labs/FLUX.1-dev",
+    "type": "f1",
+    "class": "FluxPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 14:15:20",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 152,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "FluxTransformer2DModel",
+        "params": 11901408320,
+        "modules": 1745,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 58.584,
+    "repo": "black-forest-labs/FLUX.1-dev"
+  },
+  {
+    "model": "Diffusers/black-forest-labs/FLUX.1-Kontext-dev",
+    "type": "f1",
+    "class": "FluxKontextPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 14:28:51",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 152,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "FluxTransformer2DModel",
+        "params": 11901408320,
+        "modules": 1745,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 64.108,
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev"
+  },
+  {
+    "model": "Diffusers/black-forest-labs/FLUX.1-Krea-dev",
+    "type": "f1",
+    "class": "FluxPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 14:42:25",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 152,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "FluxTransformer2DModel",
+        "params": 11901408320,
+        "modules": 1745,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 56.257,
+    "repo": "black-forest-labs/FLUX.1-Krea-dev"
+  },
+  {
+    "model": "Diffusers/lodestones/Chroma1-HD",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 14:43:35",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 44.771,
+    "repo": "lodestones/Chroma1-HD"
+  },
+  {
+    "model": "Diffusers/vladmandic/chroma-unlocked-v50-annealed",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 08:33:14",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 47.194,
+    "repo": "vladmandic/chroma-unlocked-v50-annealed"
+  },
+  {
+    "model": "Diffusers/vladmandic/chroma-unlocked-v48",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 08:53:33",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 44.094,
+    "repo": "vladmandic/chroma-unlocked-v48"
+  },
+  {
+    "model": "Diffusers/vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:05:57",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 46.119,
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated"
+  },
+  {
+    "model": "Diffusers/ostris/Flex.2-preview",
+    "type": "f1",
+    "class": "Flex2Pipeline",
+    "size": 0,
+    "mtime": "2025-08-10 19:47:33",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 152,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "FluxTransformer2DModel",
+        "params": 8163669568,
+        "modules": 1173,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 51.274,
+    "repo": "ostris/Flex.2-preview"
+  },
+  {
+    "model": "sdxl/dreamshaperXL_alpha2Xl10",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938068556,
+    "mtime": "2025-08-12 16:43:42",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 18.088,
+    "repo": "dreamshaperXL_alpha2Xl10"
+  },
+  {
+    "model": "Diffusers/ostris/Flex.1-alpha",
+    "type": "f1",
+    "class": "FluxPipeline",
+    "size": 0,
+    "mtime": "2025-08-12 14:59:17",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 152,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "FluxTransformer2DModel",
+        "params": 8163264064,
+        "modules": 1173,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 52.227,
+    "repo": "ostris/Flex.1-alpha"
+  },
+  {
+    "model": "Diffusers/Qwen/Qwen-Image",
+    "type": "qwen",
+    "class": "QwenImagePipeline",
+    "size": 0,
+    "mtime": "2025-08-10 23:28:33",
+    "modules": [
+      {
+        "class": "AutoencoderKLQwenImage",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Qwen2_5_VLForConditionalGeneration",
+        "params": 8292166656,
+        "modules": 1122,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "QwenImageTransformer2DModel",
+        "params": 20430401088,
+        "modules": 3143,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 113.957,
+    "repo": "Qwen/Qwen-Image"
+  },
+  {
+    "model": "Diffusers/vladmandic/Qwen-Lightning",
+    "type": "qwen",
+    "class": "QwenImagePipeline",
+    "size": 0,
+    "mtime": "2025-08-10 16:16:48",
+    "modules": [
+      {
+        "class": "AutoencoderKLQwenImage",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Qwen2_5_VLForConditionalGeneration",
+        "params": 8292166656,
+        "modules": 1122,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "QwenImageTransformer2DModel",
+        "params": 20430401088,
+        "modules": 3143,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 113.278,
+    "repo": "vladmandic/Qwen-Lightning"
+  },
+  {
+    "model": "Diffusers/Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "type": "sana",
+    "class": "SanaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:33:05",
+    "modules": [
+      {
+        "class": "Gemma2Model",
+        "params": 2614341888,
+        "modules": 577,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderDC",
+        "params": 312250275,
+        "modules": 442,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "SanaTransformer2DModel",
+        "params": 1604641952,
+        "modules": 707,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 16.809,
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers"
+  },
+  {
+    "model": "Diffusers/Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "type": "sana",
+    "class": "SanaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:41:25",
+    "modules": [
+      {
+        "class": "Gemma2Model",
+        "params": 2614341888,
+        "modules": 577,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderDC",
+        "params": 312250275,
+        "modules": 442,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "SanaTransformer2DModel",
+        "params": 4721825952,
+        "modules": 2067,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 26.344,
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers"
+  },
+  {
+    "model": "Diffusers/zai-org/CogView4-6B",
+    "type": "cogview4",
+    "class": "CogView4Pipeline",
+    "size": 0,
+    "mtime": "2025-08-10 21:47:19",
+    "modules": [
+      {
+        "class": "GlmModel",
+        "params": 8779194368,
+        "modules": 725,
+        "quant": "sdnq",
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 406100643,
+        "modules": 281,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CogView4Transformer2DModel",
+        "params": 6369118272,
+        "modules": 839,
+        "quant": "sdnq",
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 58.714,
+    "repo": "zai-org/CogView4-6B"
+  },
+  {
+    "model": "Diffusers/zai-org/CogView3-Plus-3B",
+    "type": "cogview3",
+    "class": "CogView3PlusPipeline",
+    "size": 0,
+    "mtime": "2025-08-10 21:53:55",
+    "modules": [
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 406100643,
+        "modules": 281,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CogView3PlusTransformer2DModel",
+        "params": 2848836672,
+        "modules": 927,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 53.236,
+    "repo": "zai-org/CogView3-Plus-3B"
+  },
+  {
+    "model": "Diffusers/fal/AuraFlow-v0.3",
+    "type": "auraflow",
+    "class": "AuraFlowPipeline",
+    "size": 0,
+    "mtime": "2025-08-10 21:39:54",
+    "modules": [
+      {
+        "class": "UMT5EncoderModel",
+        "params": 1223550976,
+        "modules": 630,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AuraFlowTransformer2DModel",
+        "params": 6858605568,
+        "modules": 1084,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 51.826,
+    "repo": "fal/AuraFlow-v0.3"
+  },
+  {
+    "model": "Diffusers/fal/AuraFlow-v0.2",
+    "type": "auraflow",
+    "class": "AuraFlowPipeline",
+    "size": 0,
+    "mtime": "2025-08-10 23:52:50",
+    "modules": [
+      {
+        "class": "UMT5EncoderModel",
+        "params": 1223550976,
+        "modules": 630,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AuraFlowTransformer2DModel",
+        "params": 6842876928,
+        "modules": 1084,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 48.074,
+    "repo": "fal/AuraFlow-v0.2"
+  },
+  {
+    "model": "Diffusers/Freepik/F-Lite",
+    "type": "flite",
+    "class": "FLitePipeline",
+    "size": 0,
+    "mtime": "2025-08-10 19:18:20",
+    "modules": [
+      {
+        "class": "DiT",
+        "params": 9785401448,
+        "modules": 1298,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 58.319,
+    "repo": "Freepik/F-Lite"
+  },
+  {
+    "model": "Diffusers/Freepik/F-Lite-Texture",
+    "type": "flite",
+    "class": "FLitePipeline",
+    "size": 0,
+    "mtime": "2025-08-10 19:31:46",
+    "modules": [
+      {
+        "class": "DiT",
+        "params": 9785401448,
+        "modules": 1298,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 59.393,
+    "repo": "Freepik/F-Lite-Texture"
+  },
+  {
+    "model": "Freepik/F-Lite-7B",
+    "type": "flite",
+    "class": "FLitePipeline",
+    "size": 0,
+    "mtime": "None",
+    "modules": [
+      {
+        "class": "DiT",
+        "params": 6878232668,
+        "modules": 914,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 36.328,
+    "repo": "Freepik/F-Lite-7B"
+  },
+  {
+    "model": "Diffusers/playgroundai/playground-v2-1024px-aesthetic",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 07:57:45",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 26.071,
+    "repo": "playgroundai/playground-v2-1024px-aesthetic"
+  },
+  {
+    "model": "test/playground-v2.5-1024px-aesthetic.fp16",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938040576,
+    "mtime": "2024-02-27 17:01:14",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.666,
+    "repo": "playground-v2.5-1024px-aesthetic.fp16"
+  },
+  {
+    "model": "Diffusers/Shitao/OmniGen-v1-diffusers",
+    "type": "omnigen",
+    "class": "OmniGenPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 00:00:23",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "OmniGenTransformer2DModel",
+        "params": 3762072592,
+        "modules": 668,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 20.324,
+    "repo": "Shitao/OmniGen-v1-diffusers"
+  },
+  {
+    "model": "Diffusers/OmniGen2/OmniGen2",
+    "type": "omnigen2",
+    "class": "OmniGen2Pipeline",
+    "size": 0,
+    "mtime": "2025-08-11 00:15:06",
+    "modules": [
+      {
+        "class": "OmniGen2Transformer2DModel",
+        "params": 3967161400,
+        "modules": 1160,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Qwen2_5_VLForConditionalGeneration",
+        "params": 3754622976,
+        "modules": 1289,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 60.871,
+    "repo": "OmniGen2/OmniGen2"
+  },
+  {
+    "model": "Diffusers/kandinsky-community/kandinsky-2-2-decoder",
+    "type": "kandinsky",
+    "class": "KandinskyV22CombinedPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 08:42:02",
+    "modules": [
+      {
+        "class": "UNet2DConditionModel",
+        "params": 1253057288,
+        "modules": 585,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "VQModel",
+        "params": 67832495,
+        "modules": 386,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "PriorTransformer",
+        "params": 1026225920,
+        "modules": 332,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPVisionModelWithProjection",
+        "params": 1844907264,
+        "modules": 586,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 393,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 23.067,
+    "repo": "kandinsky-community/kandinsky-2-2-decoder"
+  },
+  {
+    "model": "Diffusers/kandinsky-community/kandinsky-2-1",
+    "type": "kandinsky",
+    "class": "KandinskyCombinedPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 08:43:09",
+    "modules": [
+      {
+        "class": "MultilingualCLIP",
+        "params": 560677632,
+        "modules": 446,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 1228661768,
+        "modules": 760,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "VQModel",
+        "params": 67832495,
+        "modules": 386,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "PriorTransformer",
+        "params": 1022030080,
+        "modules": 458,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPVisionModelWithProjection",
+        "params": 303966208,
+        "modules": 298,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 123650304,
+        "modules": 153,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 26.757,
+    "repo": "kandinsky-community/kandinsky-2-1"
+  },
+  {
+    "model": "Diffusers/kandinsky-community/kandinsky-3",
+    "type": "kandinsky",
+    "class": "Kandinsky3Pipeline",
+    "size": 0,
+    "mtime": "2025-08-11 08:42:00",
+    "modules": [
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Kandinsky3UNet",
+        "params": 3055348228,
+        "modules": 3094,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "VQModel",
+        "params": 270669103,
+        "modules": 386,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 27.171,
+    "repo": "kandinsky-community/kandinsky-3"
+  },
+  {
+    "model": "Diffusers/Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "type": "lumina",
+    "class": "LuminaText2ImgPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:06:40",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "GemmaModel",
+        "params": 2506172416,
+        "modules": 365,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "LuminaNextDiT2DModel",
+        "params": 1754898976,
+        "modules": 1007,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 18.882,
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers"
+  },
+  {
+    "model": "Diffusers/Alpha-VLLM/Lumina-Image-2.0",
+    "type": "lumina2",
+    "class": "Lumina2Pipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:25:30",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Gemma2Model",
+        "params": 2614341888,
+        "modules": 577,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Lumina2Transformer2DModel",
+        "params": 2609769152,
+        "modules": 917,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 30.203,
+    "repo": "Alpha-VLLM/Lumina-Image-2.0"
+  },
+  {
+    "model": "Diffusers/PixArt-alpha/PixArt-XL-2-1024-MS",
+    "type": "pixartalpha",
+    "class": "PixArtAlphaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:42:07",
+    "modules": [
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "PixArtTransformer2DModel",
+        "params": 611349152,
+        "modules": 955,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 29.088,
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS"
+  },
+  {
+    "model": "Diffusers/PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "type": "pixartsigma",
+    "class": "PixArtSigmaPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 09:51:12",
+    "modules": [
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "PixArtTransformer2DModel",
+        "params": 610856096,
+        "modules": 946,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 19.689,
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS"
+  },
+  {
+    "model": "Diffusers/nvidia/Cosmos-Predict2-2B-Text2Image",
+    "type": "cosmos",
+    "class": "Cosmos2TextToImagePipeline",
+    "size": 0,
+    "mtime": "2025-08-10 21:09:02",
+    "modules": [
+      {
+        "class": "AutoencoderKLWan",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4864791552,
+        "modules": 559,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CosmosTransformer3DModel",
+        "params": 1956405248,
+        "modules": 1591,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 25.995,
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image"
+  },
+  {
+    "model": "Diffusers/nvidia/Cosmos-Predict2-14B-Text2Image",
+    "type": "cosmos",
+    "class": "Cosmos2TextToImagePipeline",
+    "size": 0,
+    "mtime": "2025-08-10 22:34:58",
+    "modules": [
+      {
+        "class": "AutoencoderKLWan",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4864791552,
+        "modules": 559,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CosmosTransformer3DModel",
+        "params": 14265265152,
+        "modules": 2039,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 65.726,
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image"
+  },
+  {
+    "model": "Diffusers/Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "type": "wanai",
+    "class": "WanPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 11:03:45",
+    "modules": [
+      {
+        "class": "AutoencoderKLWan",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UMT5EncoderModel",
+        "params": 5680910336,
+        "modules": 630,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "WanTransformer3DModel",
+        "params": 1418996800,
+        "modules": 1159,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 40.826,
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers"
+  },
+  {
+    "model": "Diffusers/Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "type": "wanai",
+    "class": "WanPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 12:11:31",
+    "modules": [
+      {
+        "class": "AutoencoderKLWan",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UMT5EncoderModel",
+        "params": 5680910336,
+        "modules": 630,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "WanTransformer3DModel",
+        "params": 14288491584,
+        "modules": 1539,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 103.814,
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers"
+  },
+  {
+    "model": "Diffusers/Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "type": "wanai",
+    "class": "WanPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 12:42:53",
+    "modules": [
+      {
+        "class": "AutoencoderKLWan",
+        "params": 704688668,
+        "modules": 272,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UMT5EncoderModel",
+        "params": 5680910336,
+        "modules": 630,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "WanTransformer3DModel",
+        "params": 4999787712,
+        "modules": 1159,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 56.343,
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers"
+  },
+  {
+    "model": "MeissonFlow/Meissonic",
+    "type": "MeissonicPipeline",
+    "class": "MeissonicPipeline",
+    "size": 0,
+    "mtime": "None",
+    "modules": [
+      {
+        "class": "VQModel",
+        "params": 146244675,
+        "modules": 276,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.float32"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 354032640,
+        "modules": 442,
+        "quant": "SDNQ",
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Transformer2DModel",
+        "params": 1006946304,
+        "modules": 1337,
+        "quant": "SDNQ",
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 9.695,
+    "repo": "MeissonFlow/Meissonic"
+  },
+  {
+    "model": "Diffusers/briaai/BRIA-3.2",
+    "type": "bria",
+    "class": "BriaPipeline",
+    "size": 0,
+    "mtime": "2025-08-10 19:04:56",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float32"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 4762310656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "BriaTransformer2DModel",
+        "params": 3785669392,
+        "modules": 999,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 27.03,
+    "repo": "briaai/BRIA-3.2"
+  },
+  {
+    "model": "Diffusers/segmind/Segmind-Vega",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 0,
+    "mtime": "2025-08-12 13:22:08",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 123060480,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694659840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 745225604,
+        "modules": 787,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 11.479,
+    "repo": "segmind/Segmind-Vega"
+  },
+  {
+    "model": "Diffusers/Kwai-Kolors/Kolors-diffusers",
+    "type": "KolorsPipeline",
+    "class": "KolorsPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 07:07:06",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChatGLMModel",
+        "params": 6243584000,
+        "modules": 429,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2579458820,
+        "modules": 2675,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 27.644,
+    "repo": "Kwai-Kolors/Kolors-diffusers"
+  },
+  {
+    "model": "Diffusers/Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "type": "hunyuandit",
+    "class": "HunyuanDiTPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 08:10:58",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "BertModel",
+        "params": 352035840,
+        "modules": 444,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "HunyuanDiT2DModel",
+        "params": 1499952032,
+        "modules": 1307,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 1669958656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.float16"
+      }
+    ],
+    "load": 26.574,
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers"
+  },
+  {
+    "model": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "type": "hunyuandit",
+    "class": "HunyuanDiTPipeline",
+    "size": 0,
+    "mtime": "None",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "BertModel",
+        "params": 352035840,
+        "modules": 444,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "HunyuanDiT2DModel",
+        "params": 1499952032,
+        "modules": 1307,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 1669958656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.float16"
+      }
+    ],
+    "load": 311.052,
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled"
+  },
+  {
+    "model": "Diffusers/Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "type": "hunyuandit",
+    "class": "HunyuanDiTPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 15:08:56",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "BertModel",
+        "params": 352035840,
+        "modules": 444,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "HunyuanDiT2DModel",
+        "params": 1516534048,
+        "modules": 1308,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 1669958656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.float16"
+      }
+    ],
+    "load": 27.972,
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers"
+  },
+  {
+    "model": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "type": "hunyuandit",
+    "class": "HunyuanDiTPipeline",
+    "size": 0,
+    "mtime": "None",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "BertModel",
+        "params": 352035840,
+        "modules": 444,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "HunyuanDiT2DModel",
+        "params": 1516534048,
+        "modules": 1308,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.float16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 1669958656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.float16"
+      }
+    ],
+    "load": 258.554,
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled"
+  }
+]

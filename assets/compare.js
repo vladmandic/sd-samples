@@ -1,4 +1,4 @@
-const shuffle = true;
+const shuffle = false;
 const dataMap = {};
 const modelMap = {};
 
@@ -15,6 +15,13 @@ async function fetchData(uri) {
   const response = await fetch(uri);
   const data = await response.json();
   return data;
+}
+
+function getModel(item) {
+  let model = modelMap[item.title];
+  if (!model) model = modelMap[item.shortName];
+  if (!model) console.error('getModel', title, modelMap);
+  return model;
 }
 
 async function filterGrid() {
@@ -34,18 +41,20 @@ async function filterGrid() {
 async function showDetails(item) {
     // const info = JSON.parse(item.info);
     const detailsContent = document.getElementById('details-content');
-    const model = modelMap[item.title];
-    if (!model) console.error('details', item, modelMap);
-    let modules = model.modules.sort((a, b) => b.params - a.params);
-    modules = modules.map(m => `<div class="module" title="module size is in milion of parameters">${m.class}: ${Math.round(m.params/1024/1024).toLocaleString()} MP</div>`).join(' ');
+    const model = getModel(item);
+    let modules = '';
+    if (model) {
+      modules = model.modules.sort((a, b) => b.params - a.params);
+      modules = modules.map(m => `<div class="module" title="module size is in milion of parameters">${m.class}: ${Math.round(m.params/1024/1024).toLocaleString()} MP</div>`).join(' ');
+    }
     detailsContent.innerHTML = `
       <img src="images/${encodeURIComponent(item.image)}" alt="${item.title}">
       <div class="container">
         <div class="column info-block">
-          <p><strong>Model: </strong>${model.repo}</p>
-          <p><strong>Type: </strong>${model.type} <strong>&nbsp Class: </strong> ${model.class}</p>
-          <p><strong>Size: </strong>${Math.round(model.size / 1024 / 1024).toLocaleString()} MB</p>
-          <p><strong>Load time: </strong>${model.load.toFixed(1)} seconds</p>
+          <p><strong>Model: </strong>${model?.repo}</p>
+          <p><strong>Type: </strong>${model?.type} <strong>&nbsp Class: </strong> ${model?.class}</p>
+          <p><strong>Size: </strong>${Math.round(model?.size / 1024 / 1024).toLocaleString()} MB</p>
+          <p><strong>Load time: </strong>${model?.load.toFixed(1)} seconds</p>
           <p><strong>Modules: </strong>${modules}</p>
         </div>
         <div class="column info-block">
@@ -84,16 +93,16 @@ async function main() {
     if (!dataMap[item.style]) dataMap[item.style] = {};
     dataMap[item.style][item.title] = item;
   });
-  modelData.forEach(item => {
-    item.shortName = item.repo.split('/').pop();
-    modelMap[item.shortName] = item;
+  modelData.forEach(model => {
+    model.shortName = model.repo.split('/').pop().replace('_diffusers', '').replace('-diffusers', '').replace(' Diffusers', '');
+    modelMap[model.shortName] = model;
   });
 
   // create headers
   uniqueTitles.forEach(title => {
       const titleEl = document.createElement('div');
       titleEl.className = 'axis-title';
-      titleEl.textContent = title;
+      titleEl.textContent = title.replace(/_/g, ' ').replace(/-/g, ' ');
       model = modelMap[title];
       if (model) titleEl.title = `${model.model} ${model.type} ${model.class}`;
       else console.error('model', title, modelMap)

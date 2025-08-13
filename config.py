@@ -7,7 +7,7 @@ models = {
     "juggernautXL_juggXIByRundiffusion": {},
     "juggernautXL_ragnarokBy": {},
     "AnythingXL_xl": {},
-    "dreamshaperXL_alpha2Xl1024": {},
+    "dreamshaperXL_alpha2Xl10": {},
     "perfectdeliberate_XL": {},
     "stabilityai/stable-diffusion-3.5-medium": {},
     "stabilityai/stable-diffusion-3.5-large": {},
@@ -48,13 +48,17 @@ models = {
     "Wan-AI/Wan2.1-T2V-1.3B-Diffusers": {},
     "Wan-AI/Wan2.1-T2V-14B-Diffusers": {},
     "Wan-AI/Wan2.2-TI2V-5B-Diffusers": {},
-    # "Wan-AI/Wan2.2-T2V-A14B-Diffusers": {}, # extreme memory usage due to size
-    "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers": {},
-    "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers": {},
     "MeissonFlow/Meissonic": {},
     "briaai/BRIA-3.2": {},
     "segmind/Segmind-Vega": {},
     "Kwai-Kolors/Kolors-diffusers": {},
+    # requires fp16
+    "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers": {},
+    "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled": {},
+    "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers": {},
+    "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled": {},
+    # requires uint4
+    # "Wan-AI/Wan2.2-T2V-A14B-Diffusers": {}, # extreme memory usage due to size
     # "HiDream-ai/HiDream-I1-Full": {}, # extreme memory usage due to size
 }
 

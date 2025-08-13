@@ -55,7 +55,7 @@ def write_images(repo:str, style:str, image:str='', size:tuple=(0,0), generate:f
     info = json.loads(info)
     images_data.append({
         'repo': repo,
-        'title': repo.split('/')[-1].replace('_diffusers', '').replace('-diffusers', ''),
+        'title': repo.split('/')[-1].replace('_diffusers', '').replace('-diffusers', '').replace(' Diffusers', ''),
         'style': style,
         'image': image,
         'size': size,
@@ -101,6 +101,9 @@ def request(endpoint: str, dct: dict = None, method: str = 'POST'):
 def main(): # pylint: disable=redefined-outer-name
     idx_model = 0
     idx_images = 0
+    idx_existing = 0
+    idx_errors = 0
+    idx_total = len(models) * len(styles)
     t_generate0 = time.time()
     log.info(f'generate: models={len(models)} styles={len(styles)}')
     request('/sdapi/v1/unload-checkpoint', method='POST')
@@ -111,12 +114,14 @@ def main(): # pylint: disable=redefined-outer-name
         log.info(f'model: n={idx_model+1}/{len(models)} name="{model}"')
         idx_style = 0
         loaded_model = None
-        for s, (style, prompt) in enumerate(styles.items()):
+        for style, prompt in styles.items():
             try:
+                idx_style += 1
                 model_name = pathvalidate.sanitize_filename(model, replacement_text='_')
                 style_name = pathvalidate.sanitize_filename(style, replacement_text='_')
                 fn = os.path.join(output_folder, f'{model_name}__{style_name}.jpg')
                 if os.path.exists(fn):
+                    idx_existing += 1
                     continue
                 if loaded_model != model:
                     t_load0 = time.time()
@@ -135,18 +140,17 @@ def main(): # pylint: disable=redefined-outer-name
                 params = { 'prompt': prompt }
                 for k, v in args.items():
                     params[k] = v
-                log.info(f' style: n={s+1}/{len(styles)} name="{style}" args={params} fn="{fn}"')
+                log.info(f' image generate: style={idx_style}/{len(styles)} total={idx_images+idx_existing}/{idx_total} errors={idx_errors} name="{style}" fn="{fn}"')
                 data = request('/sdapi/v1/txt2img', params)
                 t_style1 = time.time()
                 if 'images' in data and len(data['images']) > 0:
-                    idx_style += 1
                     idx_images += 1
                     b64 = data['images'][0].split(',',1)[0]
                     image = Image.open(io.BytesIO(base64.b64decode(b64)))
                     size = image.size
                     info = data['info']
                     params = data['parameters']
-                    log.info(f' image: size={image.width}x{image.height} time={t_style1-t_style0:.2f} info={len(info)}')
+                    log.info(f' image save: size={image.width}x{image.height} time={t_style1-t_style0:.2f} info={len(info)}')
                     image.save(fn, quality=85)
                     basename = os.path.basename(fn)
                     fn = os.path.join(output_thumb, basename)
@@ -162,24 +166,26 @@ def main(): # pylint: disable=redefined-outer-name
                         info=info,
                     )
                 else:
+                    idx_errors += 1
                     log.error(f' model: error="{model}" style="{style}" no image')
             except Exception as e:
                 if 'Connection refused' in str(e) or 'RemoteDisconnected' in str(e):
                     log.error('server offline')
                     os._exit(1)
+                idx_errors += 1
                 log.error(f' model: error="{model}" style="{style}" exception="{e}"')
         t_model1 = time.time()
         if idx_style > 0:
             log.info(f'model: name="{model}" images={idx_style} time={t_model1-t_model0:.2f}')
     t_generate1 = time.time()
     if idx_images > 0:
-        log.info(f'generate: models={idx_model} images={idx_images} time={t_generate1-t_generate0:.2f}')
+        log.info(f'generate: models={idx_model} images={idx_images} existing={idx_existing} time={t_generate1-t_generate0:.2f}')
 
 
 if __name__ == "__main__":
     logging.basicConfig(level = logging.INFO, format = '%(asctime)s %(levelname)s: %(message)s')
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-    fh = RotatingFileHandler('compare.log', maxBytes=32*1024*1024, backupCount=0, encoding='utf-8', delay=True) # 10MB default for log rotation
+    fh = RotatingFileHandler('compare.log', maxBytes=64*1024*1024, backupCount=0, encoding='utf-8', delay=True) # 64MB default for log rotation
     fh.formatter = logging.Formatter('%(asctime)s | %(levelname)s | %(message)s')
     fh.setLevel(logging.DEBUG)
     log.addHandler(fh)
