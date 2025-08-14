@@ -34510,5 +34510,5477 @@
     "steps": 20,
     "params": {},
     "info": {}
+  },
+  {
+    "repo": "sdxl-base-v10-vaefix",
+    "title": "sdxl-base-v10-vaefix",
+    "style": "Marble sculptures",
+    "image": "sdxl-base-v10-vaefix__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 8.816,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3563501909,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxl-base-v10-vaefix",
+    "title": "sdxl-base-v10-vaefix",
+    "style": "Cartoon staircase",
+    "image": "sdxl-base-v10-vaefix__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.934,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 4045768058,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxl-base-v10-vaefix",
+    "title": "sdxl-base-v10-vaefix",
+    "style": "Cat aviator",
+    "image": "sdxl-base-v10-vaefix__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.852,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3052124490,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxl-base-v10-vaefix",
+    "title": "sdxl-base-v10-vaefix",
+    "style": "Oil paintining",
+    "image": "sdxl-base-v10-vaefix__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.903,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 856632822,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxl-base-v10-vaefix",
+    "title": "sdxl-base-v10-vaefix",
+    "style": "Toystore sketch",
+    "image": "sdxl-base-v10-vaefix__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.048,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1403209611,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxl-base-v10-vaefix",
+    "title": "sdxl-base-v10-vaefix",
+    "style": "Lego Star Wars",
+    "image": "sdxl-base-v10-vaefix__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.911,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 890784578,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "tempest-by-vlad-0.1",
+    "title": "tempest-by-vlad-0.1",
+    "style": "Marble sculptures",
+    "image": "tempest-by-vlad-0.1__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.893,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2591941117,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "tempest-by-vlad-0.1",
+    "title": "tempest-by-vlad-0.1",
+    "style": "Cartoon staircase",
+    "image": "tempest-by-vlad-0.1__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.822,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1389534606,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "tempest-by-vlad-0.1",
+    "title": "tempest-by-vlad-0.1",
+    "style": "Cat aviator",
+    "image": "tempest-by-vlad-0.1__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.903,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3796185719,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "tempest-by-vlad-0.1",
+    "title": "tempest-by-vlad-0.1",
+    "style": "Oil paintining",
+    "image": "tempest-by-vlad-0.1__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.802,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 729657785,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "tempest-by-vlad-0.1",
+    "title": "tempest-by-vlad-0.1",
+    "style": "Toystore sketch",
+    "image": "tempest-by-vlad-0.1__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.809,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3437029098,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "tempest-by-vlad-0.1",
+    "title": "tempest-by-vlad-0.1",
+    "style": "Lego Star Wars",
+    "image": "tempest-by-vlad-0.1__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.22,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1086639074,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "icbinpXL_v6",
+    "title": "icbinpXL_v6",
+    "style": "Marble sculptures",
+    "image": "icbinpXL_v6__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.143,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3191280819,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "icbinpXL_v6",
+    "title": "icbinpXL_v6",
+    "style": "Cartoon staircase",
+    "image": "icbinpXL_v6__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.047,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 4203131666,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "icbinpXL_v6",
+    "title": "icbinpXL_v6",
+    "style": "Cat aviator",
+    "image": "icbinpXL_v6__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.965,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2574678605,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "icbinpXL_v6",
+    "title": "icbinpXL_v6",
+    "style": "Oil paintining",
+    "image": "icbinpXL_v6__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.021,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1922348630,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "icbinpXL_v6",
+    "title": "icbinpXL_v6",
+    "style": "Toystore sketch",
+    "image": "icbinpXL_v6__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.968,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2235191128,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "icbinpXL_v6",
+    "title": "icbinpXL_v6",
+    "style": "Lego Star Wars",
+    "image": "icbinpXL_v6__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.909,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3025329533,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PrometheusV1",
+    "title": "PrometheusV1",
+    "style": "Marble sculptures",
+    "image": "PrometheusV1__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.249,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2074094646,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PrometheusV1",
+    "title": "PrometheusV1",
+    "style": "Cartoon staircase",
+    "image": "PrometheusV1__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.171,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1971041409,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PrometheusV1",
+    "title": "PrometheusV1",
+    "style": "Cat aviator",
+    "image": "PrometheusV1__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.373,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1869737814,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PrometheusV1",
+    "title": "PrometheusV1",
+    "style": "Oil paintining",
+    "image": "PrometheusV1__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.171,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 378367035,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PrometheusV1",
+    "title": "PrometheusV1",
+    "style": "Toystore sketch",
+    "image": "PrometheusV1__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.359,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 637382946,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PrometheusV1",
+    "title": "PrometheusV1",
+    "style": "Lego Star Wars",
+    "image": "PrometheusV1__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.39,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2401185650,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Epicrealismxl_Hades",
+    "title": "Epicrealismxl_Hades",
+    "style": "Marble sculptures",
+    "image": "Epicrealismxl_Hades__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.848,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 426533633,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Epicrealismxl_Hades",
+    "title": "Epicrealismxl_Hades",
+    "style": "Cartoon staircase",
+    "image": "Epicrealismxl_Hades__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.884,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3931285221,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Epicrealismxl_Hades",
+    "title": "Epicrealismxl_Hades",
+    "style": "Cat aviator",
+    "image": "Epicrealismxl_Hades__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.981,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 4102183135,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Epicrealismxl_Hades",
+    "title": "Epicrealismxl_Hades",
+    "style": "Oil paintining",
+    "image": "Epicrealismxl_Hades__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.996,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1826750221,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Epicrealismxl_Hades",
+    "title": "Epicrealismxl_Hades",
+    "style": "Toystore sketch",
+    "image": "Epicrealismxl_Hades__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.082,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2155550984,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Epicrealismxl_Hades",
+    "title": "Epicrealismxl_Hades",
+    "style": "Lego Star Wars",
+    "image": "Epicrealismxl_Hades__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.21,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 726628816,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_juggXIByRundiffusion",
+    "title": "juggernautXL_juggXIByRundiffusion",
+    "style": "Marble sculptures",
+    "image": "juggernautXL_juggXIByRundiffusion__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.298,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2506153064,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_juggXIByRundiffusion",
+    "title": "juggernautXL_juggXIByRundiffusion",
+    "style": "Cartoon staircase",
+    "image": "juggernautXL_juggXIByRundiffusion__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.525,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 443370864,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_juggXIByRundiffusion",
+    "title": "juggernautXL_juggXIByRundiffusion",
+    "style": "Cat aviator",
+    "image": "juggernautXL_juggXIByRundiffusion__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.707,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 705832766,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_juggXIByRundiffusion",
+    "title": "juggernautXL_juggXIByRundiffusion",
+    "style": "Oil paintining",
+    "image": "juggernautXL_juggXIByRundiffusion__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.351,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 648757762,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_juggXIByRundiffusion",
+    "title": "juggernautXL_juggXIByRundiffusion",
+    "style": "Toystore sketch",
+    "image": "juggernautXL_juggXIByRundiffusion__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.457,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1453089526,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_juggXIByRundiffusion",
+    "title": "juggernautXL_juggXIByRundiffusion",
+    "style": "Lego Star Wars",
+    "image": "juggernautXL_juggXIByRundiffusion__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.091,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3528044365,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_ragnarokBy",
+    "title": "juggernautXL_ragnarokBy",
+    "style": "Marble sculptures",
+    "image": "juggernautXL_ragnarokBy__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.838,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 135203140,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_ragnarokBy",
+    "title": "juggernautXL_ragnarokBy",
+    "style": "Cartoon staircase",
+    "image": "juggernautXL_ragnarokBy__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.04,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1408851134,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_ragnarokBy",
+    "title": "juggernautXL_ragnarokBy",
+    "style": "Cat aviator",
+    "image": "juggernautXL_ragnarokBy__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.097,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2196535993,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_ragnarokBy",
+    "title": "juggernautXL_ragnarokBy",
+    "style": "Oil paintining",
+    "image": "juggernautXL_ragnarokBy__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.004,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 574759070,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_ragnarokBy",
+    "title": "juggernautXL_ragnarokBy",
+    "style": "Toystore sketch",
+    "image": "juggernautXL_ragnarokBy__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.109,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 262887321,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "juggernautXL_ragnarokBy",
+    "title": "juggernautXL_ragnarokBy",
+    "style": "Lego Star Wars",
+    "image": "juggernautXL_ragnarokBy__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.136,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 102645376,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "AnythingXL_xl",
+    "title": "AnythingXL_xl",
+    "style": "Marble sculptures",
+    "image": "AnythingXL_xl__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.057,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 332784994,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "AnythingXL_xl",
+    "title": "AnythingXL_xl",
+    "style": "Cartoon staircase",
+    "image": "AnythingXL_xl__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.156,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3875265020,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "AnythingXL_xl",
+    "title": "AnythingXL_xl",
+    "style": "Cat aviator",
+    "image": "AnythingXL_xl__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.931,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3929351535,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "AnythingXL_xl",
+    "title": "AnythingXL_xl",
+    "style": "Oil paintining",
+    "image": "AnythingXL_xl__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.072,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2679324204,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "AnythingXL_xl",
+    "title": "AnythingXL_xl",
+    "style": "Toystore sketch",
+    "image": "AnythingXL_xl__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.059,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1687369718,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "AnythingXL_xl",
+    "title": "AnythingXL_xl",
+    "style": "Lego Star Wars",
+    "image": "AnythingXL_xl__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.458,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2744475085,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "dreamshaperXL_alpha2Xl10",
+    "title": "dreamshaperXL_alpha2Xl10",
+    "style": "Marble sculptures",
+    "image": "dreamshaperXL_alpha2Xl10__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.167,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3302025595,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "dreamshaperXL_alpha2Xl10",
+    "title": "dreamshaperXL_alpha2Xl10",
+    "style": "Cartoon staircase",
+    "image": "dreamshaperXL_alpha2Xl10__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.582,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2933117100,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "dreamshaperXL_alpha2Xl10",
+    "title": "dreamshaperXL_alpha2Xl10",
+    "style": "Cat aviator",
+    "image": "dreamshaperXL_alpha2Xl10__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.245,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1825187665,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "dreamshaperXL_alpha2Xl10",
+    "title": "dreamshaperXL_alpha2Xl10",
+    "style": "Oil paintining",
+    "image": "dreamshaperXL_alpha2Xl10__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.147,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1309115869,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "dreamshaperXL_alpha2Xl10",
+    "title": "dreamshaperXL_alpha2Xl10",
+    "style": "Toystore sketch",
+    "image": "dreamshaperXL_alpha2Xl10__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.005,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2173074336,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "dreamshaperXL_alpha2Xl10",
+    "title": "dreamshaperXL_alpha2Xl10",
+    "style": "Lego Star Wars",
+    "image": "dreamshaperXL_alpha2Xl10__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.125,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 831896655,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "perfectdeliberate_XL",
+    "title": "perfectdeliberate_XL",
+    "style": "Marble sculptures",
+    "image": "perfectdeliberate_XL__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.826,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 294960734,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "perfectdeliberate_XL",
+    "title": "perfectdeliberate_XL",
+    "style": "Cartoon staircase",
+    "image": "perfectdeliberate_XL__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.922,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2479726624,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "perfectdeliberate_XL",
+    "title": "perfectdeliberate_XL",
+    "style": "Cat aviator",
+    "image": "perfectdeliberate_XL__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.876,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3486394293,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "perfectdeliberate_XL",
+    "title": "perfectdeliberate_XL",
+    "style": "Oil paintining",
+    "image": "perfectdeliberate_XL__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.984,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3394080770,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "perfectdeliberate_XL",
+    "title": "perfectdeliberate_XL",
+    "style": "Toystore sketch",
+    "image": "perfectdeliberate_XL__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.918,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3952381509,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "perfectdeliberate_XL",
+    "title": "perfectdeliberate_XL",
+    "style": "Lego Star Wars",
+    "image": "perfectdeliberate_XL__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.88,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 900681184,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-medium",
+    "title": "stable-diffusion-3.5-medium",
+    "style": "Marble sculptures",
+    "image": "stabilityai_stable-diffusion-3.5-medium__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 11.242,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3474905785,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-medium",
+    "title": "stable-diffusion-3.5-medium",
+    "style": "Cartoon staircase",
+    "image": "stabilityai_stable-diffusion-3.5-medium__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.767,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1766853351,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-medium",
+    "title": "stable-diffusion-3.5-medium",
+    "style": "Cat aviator",
+    "image": "stabilityai_stable-diffusion-3.5-medium__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.517,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3623244240,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-medium",
+    "title": "stable-diffusion-3.5-medium",
+    "style": "Oil paintining",
+    "image": "stabilityai_stable-diffusion-3.5-medium__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.64,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2940212291,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-medium",
+    "title": "stable-diffusion-3.5-medium",
+    "style": "Toystore sketch",
+    "image": "stabilityai_stable-diffusion-3.5-medium__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.551,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2340034360,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-medium",
+    "title": "stable-diffusion-3.5-medium",
+    "style": "Lego Star Wars",
+    "image": "stabilityai_stable-diffusion-3.5-medium__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.706,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 802376196,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-large",
+    "title": "stable-diffusion-3.5-large",
+    "style": "Marble sculptures",
+    "image": "stabilityai_stable-diffusion-3.5-large__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 22.219,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2817534158,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-large",
+    "title": "stable-diffusion-3.5-large",
+    "style": "Cartoon staircase",
+    "image": "stabilityai_stable-diffusion-3.5-large__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 17.473,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3347609679,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-large",
+    "title": "stable-diffusion-3.5-large",
+    "style": "Cat aviator",
+    "image": "stabilityai_stable-diffusion-3.5-large__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.735,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3545304474,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-large",
+    "title": "stable-diffusion-3.5-large",
+    "style": "Oil paintining",
+    "image": "stabilityai_stable-diffusion-3.5-large__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.629,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1414050491,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-large",
+    "title": "stable-diffusion-3.5-large",
+    "style": "Toystore sketch",
+    "image": "stabilityai_stable-diffusion-3.5-large__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.554,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3044335855,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-diffusion-3.5-large",
+    "title": "stable-diffusion-3.5-large",
+    "style": "Lego Star Wars",
+    "image": "stabilityai_stable-diffusion-3.5-large__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.42,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1517827296,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-cascade",
+    "title": "stable-cascade",
+    "style": "Marble sculptures",
+    "image": "stabilityai_stable-cascade__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 15.908,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1864297595,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-cascade",
+    "title": "stable-cascade",
+    "style": "Cartoon staircase",
+    "image": "stabilityai_stable-cascade__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 5.937,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2295123040,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-cascade",
+    "title": "stable-cascade",
+    "style": "Cat aviator",
+    "image": "stabilityai_stable-cascade__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.114,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 188900219,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-cascade",
+    "title": "stable-cascade",
+    "style": "Oil paintining",
+    "image": "stabilityai_stable-cascade__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.979,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1735667251,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-cascade",
+    "title": "stable-cascade",
+    "style": "Toystore sketch",
+    "image": "stabilityai_stable-cascade__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.116,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 511467195,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "stabilityai/stable-cascade",
+    "title": "stable-cascade",
+    "style": "Lego Star Wars",
+    "image": "stabilityai_stable-cascade__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.103,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2358585837,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "style": "Marble sculptures",
+    "image": "black-forest-labs_FLUX.1-dev__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 21.641,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3678056826,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "style": "Cartoon staircase",
+    "image": "black-forest-labs_FLUX.1-dev__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.954,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 201842712,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "style": "Cat aviator",
+    "image": "black-forest-labs_FLUX.1-dev__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.617,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1807123979,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "style": "Oil paintining",
+    "image": "black-forest-labs_FLUX.1-dev__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.636,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3822277103,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "style": "Toystore sketch",
+    "image": "black-forest-labs_FLUX.1-dev__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.352,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2717812909,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "style": "Lego Star Wars",
+    "image": "black-forest-labs_FLUX.1-dev__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.744,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 4239848576,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev",
+    "title": "FLUX.1-Kontext-dev",
+    "style": "Marble sculptures",
+    "image": "black-forest-labs_FLUX.1-Kontext-dev__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.521,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 474542832,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev",
+    "title": "FLUX.1-Kontext-dev",
+    "style": "Cartoon staircase",
+    "image": "black-forest-labs_FLUX.1-Kontext-dev__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.139,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 488357698,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev",
+    "title": "FLUX.1-Kontext-dev",
+    "style": "Cat aviator",
+    "image": "black-forest-labs_FLUX.1-Kontext-dev__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.805,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2188815446,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev",
+    "title": "FLUX.1-Kontext-dev",
+    "style": "Oil paintining",
+    "image": "black-forest-labs_FLUX.1-Kontext-dev__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.346,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3367126315,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev",
+    "title": "FLUX.1-Kontext-dev",
+    "style": "Toystore sketch",
+    "image": "black-forest-labs_FLUX.1-Kontext-dev__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.398,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3137484475,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Kontext-dev",
+    "title": "FLUX.1-Kontext-dev",
+    "style": "Lego Star Wars",
+    "image": "black-forest-labs_FLUX.1-Kontext-dev__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.564,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3597591728,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Krea-dev",
+    "title": "FLUX.1-Krea-dev",
+    "style": "Marble sculptures",
+    "image": "black-forest-labs_FLUX.1-Krea-dev__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.171,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 172765346,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Krea-dev",
+    "title": "FLUX.1-Krea-dev",
+    "style": "Cartoon staircase",
+    "image": "black-forest-labs_FLUX.1-Krea-dev__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.939,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2282979775,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Krea-dev",
+    "title": "FLUX.1-Krea-dev",
+    "style": "Cat aviator",
+    "image": "black-forest-labs_FLUX.1-Krea-dev__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.76,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3557256272,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Krea-dev",
+    "title": "FLUX.1-Krea-dev",
+    "style": "Oil paintining",
+    "image": "black-forest-labs_FLUX.1-Krea-dev__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.684,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1120737621,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Krea-dev",
+    "title": "FLUX.1-Krea-dev",
+    "style": "Toystore sketch",
+    "image": "black-forest-labs_FLUX.1-Krea-dev__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.633,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2462384532,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "black-forest-labs/FLUX.1-Krea-dev",
+    "title": "FLUX.1-Krea-dev",
+    "style": "Lego Star Wars",
+    "image": "black-forest-labs_FLUX.1-Krea-dev__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.978,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2071400137,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Marble sculptures",
+    "image": "lodestones_Chroma1-HD__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.012,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1727587678,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Cartoon staircase",
+    "image": "lodestones_Chroma1-HD__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.695,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2586676902,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Cat aviator",
+    "image": "lodestones_Chroma1-HD__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.337,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2469571240,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Oil paintining",
+    "image": "lodestones_Chroma1-HD__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.487,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 4185025859,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Toystore sketch",
+    "image": "lodestones_Chroma1-HD__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.669,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3005546215,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lego Star Wars",
+    "image": "lodestones_Chroma1-HD__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.469,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3246018638,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Marble sculptures",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.283,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 584555823,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.667,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 617792129,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Cat aviator",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.819,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1087169724,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Oil paintining",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.499,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 159791532,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Toystore sketch",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.532,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 196617756,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.213,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1115142848,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Marble sculptures",
+    "image": "vladmandic_chroma-unlocked-v48__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.139,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2568754043,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_chroma-unlocked-v48__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.404,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 937549794,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Cat aviator",
+    "image": "vladmandic_chroma-unlocked-v48__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.511,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 22150687,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Oil paintining",
+    "image": "vladmandic_chroma-unlocked-v48__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.086,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1036566084,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Toystore sketch",
+    "image": "vladmandic_chroma-unlocked-v48__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.102,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3516929840,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_chroma-unlocked-v48__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.867,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1909301057,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Marble sculptures",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.097,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1896057886,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.971,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 271637207,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Cat aviator",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.846,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 484116887,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Oil paintining",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.803,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2334860206,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Toystore sketch",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.877,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1547699044,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.361,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3627561363,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.2-preview",
+    "title": "Flex.2-preview",
+    "style": "Marble sculptures",
+    "image": "ostris_Flex.2-preview__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 17.037,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 156952949,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.2-preview",
+    "title": "Flex.2-preview",
+    "style": "Cartoon staircase",
+    "image": "ostris_Flex.2-preview__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.185,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3552411257,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.2-preview",
+    "title": "Flex.2-preview",
+    "style": "Cat aviator",
+    "image": "ostris_Flex.2-preview__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.271,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3658203100,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.2-preview",
+    "title": "Flex.2-preview",
+    "style": "Oil paintining",
+    "image": "ostris_Flex.2-preview__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 15.961,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2616742691,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.2-preview",
+    "title": "Flex.2-preview",
+    "style": "Toystore sketch",
+    "image": "ostris_Flex.2-preview__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.017,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 410876860,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.2-preview",
+    "title": "Flex.2-preview",
+    "style": "Lego Star Wars",
+    "image": "ostris_Flex.2-preview__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 15.869,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 4031266486,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.1-alpha",
+    "title": "Flex.1-alpha",
+    "style": "Marble sculptures",
+    "image": "ostris_Flex.1-alpha__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.738,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 4231054876,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.1-alpha",
+    "title": "Flex.1-alpha",
+    "style": "Cartoon staircase",
+    "image": "ostris_Flex.1-alpha__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.232,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1297386552,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.1-alpha",
+    "title": "Flex.1-alpha",
+    "style": "Cat aviator",
+    "image": "ostris_Flex.1-alpha__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.045,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2459173393,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.1-alpha",
+    "title": "Flex.1-alpha",
+    "style": "Oil paintining",
+    "image": "ostris_Flex.1-alpha__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.347,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 357574028,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.1-alpha",
+    "title": "Flex.1-alpha",
+    "style": "Toystore sketch",
+    "image": "ostris_Flex.1-alpha__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 16.15,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3676866779,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "ostris/Flex.1-alpha",
+    "title": "Flex.1-alpha",
+    "style": "Lego Star Wars",
+    "image": "ostris_Flex.1-alpha__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 15.98,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1155053861,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "style": "Marble sculptures",
+    "image": "Qwen_Qwen-Image__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.777,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1479874584,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "style": "Cartoon staircase",
+    "image": "Qwen_Qwen-Image__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 23.33,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1019754613,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "style": "Cat aviator",
+    "image": "Qwen_Qwen-Image__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 24.922,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1794306373,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "style": "Oil paintining",
+    "image": "Qwen_Qwen-Image__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 22.847,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 658243640,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "style": "Toystore sketch",
+    "image": "Qwen_Qwen-Image__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 22.635,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1774129561,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "style": "Lego Star Wars",
+    "image": "Qwen_Qwen-Image__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 22.827,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1358653808,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/Qwen-Lightning",
+    "title": "Qwen-Lightning",
+    "style": "Marble sculptures",
+    "image": "vladmandic_Qwen-Lightning__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 22.914,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 4005334599,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/Qwen-Lightning",
+    "title": "Qwen-Lightning",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_Qwen-Lightning__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 23.421,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1282824029,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/Qwen-Lightning",
+    "title": "Qwen-Lightning",
+    "style": "Cat aviator",
+    "image": "vladmandic_Qwen-Lightning__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 24.257,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 378915419,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/Qwen-Lightning",
+    "title": "Qwen-Lightning",
+    "style": "Oil paintining",
+    "image": "vladmandic_Qwen-Lightning__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 22.109,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3138654317,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/Qwen-Lightning",
+    "title": "Qwen-Lightning",
+    "style": "Toystore sketch",
+    "image": "vladmandic_Qwen-Lightning__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 21.535,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1024483818,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/Qwen-Lightning",
+    "title": "Qwen-Lightning",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_Qwen-Lightning__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 21.743,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 108841966,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "title": "SANA1.5_1.6B_1024px",
+    "style": "Marble sculptures",
+    "image": "Efficient-Large-Model_SANA1.5_1.6B_1024px_diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 23.097,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2395818566,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "title": "SANA1.5_1.6B_1024px",
+    "style": "Cartoon staircase",
+    "image": "Efficient-Large-Model_SANA1.5_1.6B_1024px_diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.918,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3592831197,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "title": "SANA1.5_1.6B_1024px",
+    "style": "Cat aviator",
+    "image": "Efficient-Large-Model_SANA1.5_1.6B_1024px_diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.926,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3970114916,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "title": "SANA1.5_1.6B_1024px",
+    "style": "Oil paintining",
+    "image": "Efficient-Large-Model_SANA1.5_1.6B_1024px_diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.077,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2324157231,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "title": "SANA1.5_1.6B_1024px",
+    "style": "Toystore sketch",
+    "image": "Efficient-Large-Model_SANA1.5_1.6B_1024px_diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.209,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2622893949,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers",
+    "title": "SANA1.5_1.6B_1024px",
+    "style": "Lego Star Wars",
+    "image": "Efficient-Large-Model_SANA1.5_1.6B_1024px_diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.179,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3836180254,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "title": "SANA1.5_4.8B_1024px",
+    "style": "Marble sculptures",
+    "image": "Efficient-Large-Model_SANA1.5_4.8B_1024px_diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.058,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1449945021,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "title": "SANA1.5_4.8B_1024px",
+    "style": "Cartoon staircase",
+    "image": "Efficient-Large-Model_SANA1.5_4.8B_1024px_diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 8.777,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1000995430,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "title": "SANA1.5_4.8B_1024px",
+    "style": "Cat aviator",
+    "image": "Efficient-Large-Model_SANA1.5_4.8B_1024px_diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.736,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3540917646,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "title": "SANA1.5_4.8B_1024px",
+    "style": "Oil paintining",
+    "image": "Efficient-Large-Model_SANA1.5_4.8B_1024px_diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.753,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2841960577,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "title": "SANA1.5_4.8B_1024px",
+    "style": "Toystore sketch",
+    "image": "Efficient-Large-Model_SANA1.5_4.8B_1024px_diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.485,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1698050834,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers",
+    "title": "SANA1.5_4.8B_1024px",
+    "style": "Lego Star Wars",
+    "image": "Efficient-Large-Model_SANA1.5_4.8B_1024px_diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.359,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2369930656,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView4-6B",
+    "title": "CogView4-6B",
+    "style": "Marble sculptures",
+    "image": "zai-org_CogView4-6B__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 34.755,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 228671084,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView4-6B",
+    "title": "CogView4-6B",
+    "style": "Cartoon staircase",
+    "image": "zai-org_CogView4-6B__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.861,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1567854844,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView4-6B",
+    "title": "CogView4-6B",
+    "style": "Cat aviator",
+    "image": "zai-org_CogView4-6B__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 34.612,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2865076306,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView4-6B",
+    "title": "CogView4-6B",
+    "style": "Oil paintining",
+    "image": "zai-org_CogView4-6B__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 34.937,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 4035263247,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView4-6B",
+    "title": "CogView4-6B",
+    "style": "Toystore sketch",
+    "image": "zai-org_CogView4-6B__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 35.224,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3341281628,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView4-6B",
+    "title": "CogView4-6B",
+    "style": "Lego Star Wars",
+    "image": "zai-org_CogView4-6B__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.521,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3095571513,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView3-Plus-3B",
+    "title": "CogView3-Plus-3B",
+    "style": "Marble sculptures",
+    "image": "zai-org_CogView3-Plus-3B__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.381,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 586474864,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView3-Plus-3B",
+    "title": "CogView3-Plus-3B",
+    "style": "Cartoon staircase",
+    "image": "zai-org_CogView3-Plus-3B__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.708,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1215446279,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView3-Plus-3B",
+    "title": "CogView3-Plus-3B",
+    "style": "Cat aviator",
+    "image": "zai-org_CogView3-Plus-3B__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.481,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2310227032,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView3-Plus-3B",
+    "title": "CogView3-Plus-3B",
+    "style": "Oil paintining",
+    "image": "zai-org_CogView3-Plus-3B__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.498,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3267639120,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView3-Plus-3B",
+    "title": "CogView3-Plus-3B",
+    "style": "Toystore sketch",
+    "image": "zai-org_CogView3-Plus-3B__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.466,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2217352018,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "zai-org/CogView3-Plus-3B",
+    "title": "CogView3-Plus-3B",
+    "style": "Lego Star Wars",
+    "image": "zai-org_CogView3-Plus-3B__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.735,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1792248353,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.3",
+    "title": "AuraFlow-v0.3",
+    "style": "Marble sculptures",
+    "image": "fal_AuraFlow-v0.3__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.071,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3343848234,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.3",
+    "title": "AuraFlow-v0.3",
+    "style": "Cartoon staircase",
+    "image": "fal_AuraFlow-v0.3__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.552,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2396692668,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.3",
+    "title": "AuraFlow-v0.3",
+    "style": "Cat aviator",
+    "image": "fal_AuraFlow-v0.3__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.66,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2795295422,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.3",
+    "title": "AuraFlow-v0.3",
+    "style": "Oil paintining",
+    "image": "fal_AuraFlow-v0.3__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.703,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2961979180,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.3",
+    "title": "AuraFlow-v0.3",
+    "style": "Toystore sketch",
+    "image": "fal_AuraFlow-v0.3__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.701,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 912847515,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.3",
+    "title": "AuraFlow-v0.3",
+    "style": "Lego Star Wars",
+    "image": "fal_AuraFlow-v0.3__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.723,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 163938437,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.2",
+    "title": "AuraFlow-v0.2",
+    "style": "Marble sculptures",
+    "image": "fal_AuraFlow-v0.2__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.697,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1680479128,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.2",
+    "title": "AuraFlow-v0.2",
+    "style": "Cartoon staircase",
+    "image": "fal_AuraFlow-v0.2__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.933,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 469699025,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.2",
+    "title": "AuraFlow-v0.2",
+    "style": "Cat aviator",
+    "image": "fal_AuraFlow-v0.2__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.399,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1164776203,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.2",
+    "title": "AuraFlow-v0.2",
+    "style": "Oil paintining",
+    "image": "fal_AuraFlow-v0.2__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.933,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 865182242,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.2",
+    "title": "AuraFlow-v0.2",
+    "style": "Toystore sketch",
+    "image": "fal_AuraFlow-v0.2__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.948,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 361856253,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "fal/AuraFlow-v0.2",
+    "title": "AuraFlow-v0.2",
+    "style": "Lego Star Wars",
+    "image": "fal_AuraFlow-v0.2__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.062,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2251306126,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite",
+    "title": "F-Lite",
+    "style": "Marble sculptures",
+    "image": "Freepik_F-Lite__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 33.126,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3805949629,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite",
+    "title": "F-Lite",
+    "style": "Cartoon staircase",
+    "image": "Freepik_F-Lite__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.673,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2200450166,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite",
+    "title": "F-Lite",
+    "style": "Cat aviator",
+    "image": "Freepik_F-Lite__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.67,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1936839374,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite",
+    "title": "F-Lite",
+    "style": "Oil paintining",
+    "image": "Freepik_F-Lite__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.796,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2802570208,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite",
+    "title": "F-Lite",
+    "style": "Toystore sketch",
+    "image": "Freepik_F-Lite__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.289,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3943481426,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite",
+    "title": "F-Lite",
+    "style": "Lego Star Wars",
+    "image": "Freepik_F-Lite__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 30.461,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3243865565,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-Texture",
+    "title": "F-Lite-Texture",
+    "style": "Marble sculptures",
+    "image": "Freepik_F-Lite-Texture__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 33.289,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2905883220,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-Texture",
+    "title": "F-Lite-Texture",
+    "style": "Cartoon staircase",
+    "image": "Freepik_F-Lite-Texture__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.73,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 178966697,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-Texture",
+    "title": "F-Lite-Texture",
+    "style": "Cat aviator",
+    "image": "Freepik_F-Lite-Texture__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.031,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 217249293,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-Texture",
+    "title": "F-Lite-Texture",
+    "style": "Oil paintining",
+    "image": "Freepik_F-Lite-Texture__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 27.951,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1815563057,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-Texture",
+    "title": "F-Lite-Texture",
+    "style": "Toystore sketch",
+    "image": "Freepik_F-Lite-Texture__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 28.002,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2797069209,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-Texture",
+    "title": "F-Lite-Texture",
+    "style": "Lego Star Wars",
+    "image": "Freepik_F-Lite-Texture__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 28.141,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3331096794,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-7B",
+    "title": "F-Lite-7B",
+    "style": "Marble sculptures",
+    "image": "Freepik_F-Lite-7B__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 21.739,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3809317485,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-7B",
+    "title": "F-Lite-7B",
+    "style": "Cartoon staircase",
+    "image": "Freepik_F-Lite-7B__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.529,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3162572104,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-7B",
+    "title": "F-Lite-7B",
+    "style": "Cat aviator",
+    "image": "Freepik_F-Lite-7B__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.6,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3114073028,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-7B",
+    "title": "F-Lite-7B",
+    "style": "Oil paintining",
+    "image": "Freepik_F-Lite-7B__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.297,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 110517508,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-7B",
+    "title": "F-Lite-7B",
+    "style": "Toystore sketch",
+    "image": "Freepik_F-Lite-7B__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.247,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 713814291,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Freepik/F-Lite-7B",
+    "title": "F-Lite-7B",
+    "style": "Lego Star Wars",
+    "image": "Freepik_F-Lite-7B__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 21.058,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3059108815,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playgroundai/playground-v2-1024px-aesthetic",
+    "title": "playground-v2-1024px-aesthetic",
+    "style": "Marble sculptures",
+    "image": "playgroundai_playground-v2-1024px-aesthetic__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.483,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2916206501,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playgroundai/playground-v2-1024px-aesthetic",
+    "title": "playground-v2-1024px-aesthetic",
+    "style": "Cartoon staircase",
+    "image": "playgroundai_playground-v2-1024px-aesthetic__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.61,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 393111613,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playgroundai/playground-v2-1024px-aesthetic",
+    "title": "playground-v2-1024px-aesthetic",
+    "style": "Cat aviator",
+    "image": "playgroundai_playground-v2-1024px-aesthetic__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.718,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2537752477,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playgroundai/playground-v2-1024px-aesthetic",
+    "title": "playground-v2-1024px-aesthetic",
+    "style": "Oil paintining",
+    "image": "playgroundai_playground-v2-1024px-aesthetic__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.684,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 430601725,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playgroundai/playground-v2-1024px-aesthetic",
+    "title": "playground-v2-1024px-aesthetic",
+    "style": "Toystore sketch",
+    "image": "playgroundai_playground-v2-1024px-aesthetic__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.537,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 482679447,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playgroundai/playground-v2-1024px-aesthetic",
+    "title": "playground-v2-1024px-aesthetic",
+    "style": "Lego Star Wars",
+    "image": "playgroundai_playground-v2-1024px-aesthetic__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.392,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1081425607,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playground-v2.5-1024px-aesthetic.fp16",
+    "title": "playground-v2.5-1024px-aesthetic.fp16",
+    "style": "Marble sculptures",
+    "image": "playground-v2.5-1024px-aesthetic.fp16__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.257,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3145759439,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playground-v2.5-1024px-aesthetic.fp16",
+    "title": "playground-v2.5-1024px-aesthetic.fp16",
+    "style": "Cartoon staircase",
+    "image": "playground-v2.5-1024px-aesthetic.fp16__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.397,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3249635419,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playground-v2.5-1024px-aesthetic.fp16",
+    "title": "playground-v2.5-1024px-aesthetic.fp16",
+    "style": "Cat aviator",
+    "image": "playground-v2.5-1024px-aesthetic.fp16__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.392,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 327620626,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playground-v2.5-1024px-aesthetic.fp16",
+    "title": "playground-v2.5-1024px-aesthetic.fp16",
+    "style": "Oil paintining",
+    "image": "playground-v2.5-1024px-aesthetic.fp16__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.55,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 983295822,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playground-v2.5-1024px-aesthetic.fp16",
+    "title": "playground-v2.5-1024px-aesthetic.fp16",
+    "style": "Toystore sketch",
+    "image": "playground-v2.5-1024px-aesthetic.fp16__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.478,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 143837895,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "playground-v2.5-1024px-aesthetic.fp16",
+    "title": "playground-v2.5-1024px-aesthetic.fp16",
+    "style": "Lego Star Wars",
+    "image": "playground-v2.5-1024px-aesthetic.fp16__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.448,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3125538728,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Shitao/OmniGen-v1-diffusers",
+    "title": "OmniGen-v1",
+    "style": "Marble sculptures",
+    "image": "Shitao_OmniGen-v1-diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 21.046,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2229601327,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Shitao/OmniGen-v1-diffusers",
+    "title": "OmniGen-v1",
+    "style": "Cartoon staircase",
+    "image": "Shitao_OmniGen-v1-diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.587,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 30452343,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Shitao/OmniGen-v1-diffusers",
+    "title": "OmniGen-v1",
+    "style": "Cat aviator",
+    "image": "Shitao_OmniGen-v1-diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.398,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 392643338,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Shitao/OmniGen-v1-diffusers",
+    "title": "OmniGen-v1",
+    "style": "Oil paintining",
+    "image": "Shitao_OmniGen-v1-diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.154,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 330699237,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Shitao/OmniGen-v1-diffusers",
+    "title": "OmniGen-v1",
+    "style": "Toystore sketch",
+    "image": "Shitao_OmniGen-v1-diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.499,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2229060939,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Shitao/OmniGen-v1-diffusers",
+    "title": "OmniGen-v1",
+    "style": "Lego Star Wars",
+    "image": "Shitao_OmniGen-v1-diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 20.127,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2686455804,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "OmniGen2/OmniGen2",
+    "title": "OmniGen2",
+    "style": "Marble sculptures",
+    "image": "OmniGen2_OmniGen2__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.804,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 124527442,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "OmniGen2/OmniGen2",
+    "title": "OmniGen2",
+    "style": "Cartoon staircase",
+    "image": "OmniGen2_OmniGen2__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.337,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3515857435,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "OmniGen2/OmniGen2",
+    "title": "OmniGen2",
+    "style": "Cat aviator",
+    "image": "OmniGen2_OmniGen2__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.575,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 31178402,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "OmniGen2/OmniGen2",
+    "title": "OmniGen2",
+    "style": "Oil paintining",
+    "image": "OmniGen2_OmniGen2__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.803,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 160800903,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "OmniGen2/OmniGen2",
+    "title": "OmniGen2",
+    "style": "Toystore sketch",
+    "image": "OmniGen2_OmniGen2__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.76,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 857811950,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "OmniGen2/OmniGen2",
+    "title": "OmniGen2",
+    "style": "Lego Star Wars",
+    "image": "OmniGen2_OmniGen2__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 19.379,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1850548061,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-2-decoder",
+    "title": "kandinsky-2-2-decoder",
+    "style": "Marble sculptures",
+    "image": "kandinsky-community_kandinsky-2-2-decoder__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.121,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2428595420,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-2-decoder",
+    "title": "kandinsky-2-2-decoder",
+    "style": "Cartoon staircase",
+    "image": "kandinsky-community_kandinsky-2-2-decoder__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.573,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 439294040,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-2-decoder",
+    "title": "kandinsky-2-2-decoder",
+    "style": "Cat aviator",
+    "image": "kandinsky-community_kandinsky-2-2-decoder__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.763,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3872118090,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-2-decoder",
+    "title": "kandinsky-2-2-decoder",
+    "style": "Oil paintining",
+    "image": "kandinsky-community_kandinsky-2-2-decoder__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.731,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2044497857,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-2-decoder",
+    "title": "kandinsky-2-2-decoder",
+    "style": "Toystore sketch",
+    "image": "kandinsky-community_kandinsky-2-2-decoder__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.856,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 275269237,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-2-decoder",
+    "title": "kandinsky-2-2-decoder",
+    "style": "Lego Star Wars",
+    "image": "kandinsky-community_kandinsky-2-2-decoder__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.658,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1588701437,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-1",
+    "title": "kandinsky-2-1",
+    "style": "Marble sculptures",
+    "image": "kandinsky-community_kandinsky-2-1__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 7.403,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2765910081,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-1",
+    "title": "kandinsky-2-1",
+    "style": "Cartoon staircase",
+    "image": "kandinsky-community_kandinsky-2-1__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.682,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 4120529710,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-1",
+    "title": "kandinsky-2-1",
+    "style": "Cat aviator",
+    "image": "kandinsky-community_kandinsky-2-1__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.82,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2397169639,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-1",
+    "title": "kandinsky-2-1",
+    "style": "Oil paintining",
+    "image": "kandinsky-community_kandinsky-2-1__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.904,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3821336923,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-1",
+    "title": "kandinsky-2-1",
+    "style": "Toystore sketch",
+    "image": "kandinsky-community_kandinsky-2-1__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.909,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 410189313,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-2-1",
+    "title": "kandinsky-2-1",
+    "style": "Lego Star Wars",
+    "image": "kandinsky-community_kandinsky-2-1__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.854,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3963382839,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-3",
+    "title": "kandinsky-3",
+    "style": "Marble sculptures",
+    "image": "kandinsky-community_kandinsky-3__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.918,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1175300619,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-3",
+    "title": "kandinsky-3",
+    "style": "Cartoon staircase",
+    "image": "kandinsky-community_kandinsky-3__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.101,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3430579870,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-3",
+    "title": "kandinsky-3",
+    "style": "Cat aviator",
+    "image": "kandinsky-community_kandinsky-3__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.534,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1949676209,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-3",
+    "title": "kandinsky-3",
+    "style": "Oil paintining",
+    "image": "kandinsky-community_kandinsky-3__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.579,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1054147931,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-3",
+    "title": "kandinsky-3",
+    "style": "Toystore sketch",
+    "image": "kandinsky-community_kandinsky-3__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.582,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2562581870,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "kandinsky-community/kandinsky-3",
+    "title": "kandinsky-3",
+    "style": "Lego Star Wars",
+    "image": "kandinsky-community_kandinsky-3__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.554,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3922849829,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "title": "Lumina-Next-SFT",
+    "style": "Marble sculptures",
+    "image": "Alpha-VLLM_Lumina-Next-SFT-diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.223,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3462713829,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "title": "Lumina-Next-SFT",
+    "style": "Cartoon staircase",
+    "image": "Alpha-VLLM_Lumina-Next-SFT-diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.517,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 153944560,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "title": "Lumina-Next-SFT",
+    "style": "Cat aviator",
+    "image": "Alpha-VLLM_Lumina-Next-SFT-diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.816,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3101781361,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "title": "Lumina-Next-SFT",
+    "style": "Oil paintining",
+    "image": "Alpha-VLLM_Lumina-Next-SFT-diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.247,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2091175907,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "title": "Lumina-Next-SFT",
+    "style": "Toystore sketch",
+    "image": "Alpha-VLLM_Lumina-Next-SFT-diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.288,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 744179817,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Next-SFT-diffusers",
+    "title": "Lumina-Next-SFT",
+    "style": "Lego Star Wars",
+    "image": "Alpha-VLLM_Lumina-Next-SFT-diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.701,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 4230817854,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Image-2.0",
+    "title": "Lumina-Image-2.0",
+    "style": "Marble sculptures",
+    "image": "Alpha-VLLM_Lumina-Image-2.0__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.615,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1133185032,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Image-2.0",
+    "title": "Lumina-Image-2.0",
+    "style": "Cartoon staircase",
+    "image": "Alpha-VLLM_Lumina-Image-2.0__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 11.523,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3902119440,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Image-2.0",
+    "title": "Lumina-Image-2.0",
+    "style": "Cat aviator",
+    "image": "Alpha-VLLM_Lumina-Image-2.0__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 11.704,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 499782396,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Image-2.0",
+    "title": "Lumina-Image-2.0",
+    "style": "Oil paintining",
+    "image": "Alpha-VLLM_Lumina-Image-2.0__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.165,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 926746246,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Image-2.0",
+    "title": "Lumina-Image-2.0",
+    "style": "Toystore sketch",
+    "image": "Alpha-VLLM_Lumina-Image-2.0__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.012,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3328068890,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Alpha-VLLM/Lumina-Image-2.0",
+    "title": "Lumina-Image-2.0",
+    "style": "Lego Star Wars",
+    "image": "Alpha-VLLM_Lumina-Image-2.0__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 11.95,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1208387359,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS",
+    "title": "PixArt-XL-2-1024-MS",
+    "style": "Marble sculptures",
+    "image": "PixArt-alpha_PixArt-XL-2-1024-MS__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 5.411,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 680332681,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS",
+    "title": "PixArt-XL-2-1024-MS",
+    "style": "Cartoon staircase",
+    "image": "PixArt-alpha_PixArt-XL-2-1024-MS__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.437,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3824598869,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS",
+    "title": "PixArt-XL-2-1024-MS",
+    "style": "Cat aviator",
+    "image": "PixArt-alpha_PixArt-XL-2-1024-MS__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.493,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2075660773,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS",
+    "title": "PixArt-XL-2-1024-MS",
+    "style": "Oil paintining",
+    "image": "PixArt-alpha_PixArt-XL-2-1024-MS__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.35,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 765315125,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS",
+    "title": "PixArt-XL-2-1024-MS",
+    "style": "Toystore sketch",
+    "image": "PixArt-alpha_PixArt-XL-2-1024-MS__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.435,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2040872422,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-XL-2-1024-MS",
+    "title": "PixArt-XL-2-1024-MS",
+    "style": "Lego Star Wars",
+    "image": "PixArt-alpha_PixArt-XL-2-1024-MS__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.502,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1936020951,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "title": "PixArt-Sigma-XL-2-1024-MS",
+    "style": "Marble sculptures",
+    "image": "PixArt-alpha_PixArt-Sigma-XL-2-1024-MS__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.675,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2495606264,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "title": "PixArt-Sigma-XL-2-1024-MS",
+    "style": "Cartoon staircase",
+    "image": "PixArt-alpha_PixArt-Sigma-XL-2-1024-MS__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.68,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3117606146,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "title": "PixArt-Sigma-XL-2-1024-MS",
+    "style": "Cat aviator",
+    "image": "PixArt-alpha_PixArt-Sigma-XL-2-1024-MS__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.95,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3495667832,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "title": "PixArt-Sigma-XL-2-1024-MS",
+    "style": "Oil paintining",
+    "image": "PixArt-alpha_PixArt-Sigma-XL-2-1024-MS__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.93,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 274659869,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "title": "PixArt-Sigma-XL-2-1024-MS",
+    "style": "Toystore sketch",
+    "image": "PixArt-alpha_PixArt-Sigma-XL-2-1024-MS__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.891,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1700602828,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+    "title": "PixArt-Sigma-XL-2-1024-MS",
+    "style": "Lego Star Wars",
+    "image": "PixArt-alpha_PixArt-Sigma-XL-2-1024-MS__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.882,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2514684902,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image",
+    "title": "Cosmos-Predict2-2B-Text2Image",
+    "style": "Marble sculptures",
+    "image": "nvidia_Cosmos-Predict2-2B-Text2Image__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 11.538,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1504786946,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image",
+    "title": "Cosmos-Predict2-2B-Text2Image",
+    "style": "Cartoon staircase",
+    "image": "nvidia_Cosmos-Predict2-2B-Text2Image__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.932,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2334908020,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image",
+    "title": "Cosmos-Predict2-2B-Text2Image",
+    "style": "Cat aviator",
+    "image": "nvidia_Cosmos-Predict2-2B-Text2Image__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 10.325,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 723692950,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image",
+    "title": "Cosmos-Predict2-2B-Text2Image",
+    "style": "Oil paintining",
+    "image": "nvidia_Cosmos-Predict2-2B-Text2Image__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.944,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2237139533,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image",
+    "title": "Cosmos-Predict2-2B-Text2Image",
+    "style": "Toystore sketch",
+    "image": "nvidia_Cosmos-Predict2-2B-Text2Image__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.891,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2234352903,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-2B-Text2Image",
+    "title": "Cosmos-Predict2-2B-Text2Image",
+    "style": "Lego Star Wars",
+    "image": "nvidia_Cosmos-Predict2-2B-Text2Image__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.667,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1435763284,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image",
+    "title": "Cosmos-Predict2-14B-Text2Image",
+    "style": "Marble sculptures",
+    "image": "nvidia_Cosmos-Predict2-14B-Text2Image__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 55.748,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3853597162,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image",
+    "title": "Cosmos-Predict2-14B-Text2Image",
+    "style": "Cartoon staircase",
+    "image": "nvidia_Cosmos-Predict2-14B-Text2Image__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 53.508,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 925927192,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image",
+    "title": "Cosmos-Predict2-14B-Text2Image",
+    "style": "Cat aviator",
+    "image": "nvidia_Cosmos-Predict2-14B-Text2Image__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 52.986,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1163086137,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image",
+    "title": "Cosmos-Predict2-14B-Text2Image",
+    "style": "Oil paintining",
+    "image": "nvidia_Cosmos-Predict2-14B-Text2Image__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 53.646,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 591386079,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image",
+    "title": "Cosmos-Predict2-14B-Text2Image",
+    "style": "Toystore sketch",
+    "image": "nvidia_Cosmos-Predict2-14B-Text2Image__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 53.429,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3684400357,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "nvidia/Cosmos-Predict2-14B-Text2Image",
+    "title": "Cosmos-Predict2-14B-Text2Image",
+    "style": "Lego Star Wars",
+    "image": "nvidia_Cosmos-Predict2-14B-Text2Image__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 53.874,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1505073284,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "title": "Wan2.1-T2V-1.3B-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Wan-AI_Wan2.1-T2V-1.3B-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 10.446,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 877382736,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "title": "Wan2.1-T2V-1.3B-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Wan-AI_Wan2.1-T2V-1.3B-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.149,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3052109171,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "title": "Wan2.1-T2V-1.3B-Diffusers",
+    "style": "Cat aviator",
+    "image": "Wan-AI_Wan2.1-T2V-1.3B-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.296,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1681292382,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "title": "Wan2.1-T2V-1.3B-Diffusers",
+    "style": "Oil paintining",
+    "image": "Wan-AI_Wan2.1-T2V-1.3B-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.08,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3885601138,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "title": "Wan2.1-T2V-1.3B-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Wan-AI_Wan2.1-T2V-1.3B-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.051,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 283665335,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
+    "title": "Wan2.1-T2V-1.3B-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Wan-AI_Wan2.1-T2V-1.3B-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.102,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 72892865,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "title": "Wan2.1-T2V-14B-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Wan-AI_Wan2.1-T2V-14B-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 57.628,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1250806974,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "title": "Wan2.1-T2V-14B-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Wan-AI_Wan2.1-T2V-14B-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 66.174,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2841603676,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "title": "Wan2.1-T2V-14B-Diffusers",
+    "style": "Cat aviator",
+    "image": "Wan-AI_Wan2.1-T2V-14B-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 56.527,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3790946084,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "title": "Wan2.1-T2V-14B-Diffusers",
+    "style": "Oil paintining",
+    "image": "Wan-AI_Wan2.1-T2V-14B-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 57.176,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1606638130,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "title": "Wan2.1-T2V-14B-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Wan-AI_Wan2.1-T2V-14B-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 55.15,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 59239297,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.1-T2V-14B-Diffusers",
+    "title": "Wan2.1-T2V-14B-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Wan-AI_Wan2.1-T2V-14B-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 55.863,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 616367720,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "title": "Wan2.2-TI2V-5B-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Wan-AI_Wan2.2-TI2V-5B-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 11.948,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2734660745,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "title": "Wan2.2-TI2V-5B-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Wan-AI_Wan2.2-TI2V-5B-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.395,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3770603729,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "title": "Wan2.2-TI2V-5B-Diffusers",
+    "style": "Cat aviator",
+    "image": "Wan-AI_Wan2.2-TI2V-5B-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.79,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1547720731,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "title": "Wan2.2-TI2V-5B-Diffusers",
+    "style": "Oil paintining",
+    "image": "Wan-AI_Wan2.2-TI2V-5B-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.983,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2639905061,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "title": "Wan2.2-TI2V-5B-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Wan-AI_Wan2.2-TI2V-5B-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.379,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3229666707,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "title": "Wan2.2-TI2V-5B-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Wan-AI_Wan2.2-TI2V-5B-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.397,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2780179427,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "MeissonFlow/Meissonic",
+    "title": "Meissonic",
+    "style": "Marble sculptures",
+    "image": "MeissonFlow_Meissonic__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.348,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2833409356,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "MeissonFlow/Meissonic",
+    "title": "Meissonic",
+    "style": "Cartoon staircase",
+    "image": "MeissonFlow_Meissonic__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.344,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2221701798,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "MeissonFlow/Meissonic",
+    "title": "Meissonic",
+    "style": "Cat aviator",
+    "image": "MeissonFlow_Meissonic__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.412,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2445966718,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "MeissonFlow/Meissonic",
+    "title": "Meissonic",
+    "style": "Oil paintining",
+    "image": "MeissonFlow_Meissonic__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.283,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 4264748229,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "MeissonFlow/Meissonic",
+    "title": "Meissonic",
+    "style": "Toystore sketch",
+    "image": "MeissonFlow_Meissonic__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.374,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 240725801,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "MeissonFlow/Meissonic",
+    "title": "Meissonic",
+    "style": "Lego Star Wars",
+    "image": "MeissonFlow_Meissonic__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.309,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3473389084,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "briaai/BRIA-3.2",
+    "title": "BRIA-3.2",
+    "style": "Marble sculptures",
+    "image": "briaai_BRIA-3.2__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 18.942,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2345388616,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "briaai/BRIA-3.2",
+    "title": "BRIA-3.2",
+    "style": "Cartoon staircase",
+    "image": "briaai_BRIA-3.2__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.082,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 4056553624,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "briaai/BRIA-3.2",
+    "title": "BRIA-3.2",
+    "style": "Cat aviator",
+    "image": "briaai_BRIA-3.2__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.128,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 259912321,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "briaai/BRIA-3.2",
+    "title": "BRIA-3.2",
+    "style": "Oil paintining",
+    "image": "briaai_BRIA-3.2__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.367,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 682517254,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "briaai/BRIA-3.2",
+    "title": "BRIA-3.2",
+    "style": "Toystore sketch",
+    "image": "briaai_BRIA-3.2__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 14.132,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2204910460,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "briaai/BRIA-3.2",
+    "title": "BRIA-3.2",
+    "style": "Lego Star Wars",
+    "image": "briaai_BRIA-3.2__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 13.897,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2403697270,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "segmind/Segmind-Vega",
+    "title": "Segmind-Vega",
+    "style": "Marble sculptures",
+    "image": "segmind_Segmind-Vega__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 2.096,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1906829331,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "segmind/Segmind-Vega",
+    "title": "Segmind-Vega",
+    "style": "Cartoon staircase",
+    "image": "segmind_Segmind-Vega__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 1.878,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1589412510,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "segmind/Segmind-Vega",
+    "title": "Segmind-Vega",
+    "style": "Cat aviator",
+    "image": "segmind_Segmind-Vega__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 1.885,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2330618327,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "segmind/Segmind-Vega",
+    "title": "Segmind-Vega",
+    "style": "Oil paintining",
+    "image": "segmind_Segmind-Vega__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 1.882,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 725395156,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "segmind/Segmind-Vega",
+    "title": "Segmind-Vega",
+    "style": "Toystore sketch",
+    "image": "segmind_Segmind-Vega__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 1.885,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3051084145,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "segmind/Segmind-Vega",
+    "title": "Segmind-Vega",
+    "style": "Lego Star Wars",
+    "image": "segmind_Segmind-Vega__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 1.843,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3354095102,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Kwai-Kolors/Kolors-diffusers",
+    "title": "Kolors",
+    "style": "Marble sculptures",
+    "image": "Kwai-Kolors_Kolors-diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.993,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3311512129,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Kwai-Kolors/Kolors-diffusers",
+    "title": "Kolors",
+    "style": "Cartoon staircase",
+    "image": "Kwai-Kolors_Kolors-diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 5.458,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 942445939,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Kwai-Kolors/Kolors-diffusers",
+    "title": "Kolors",
+    "style": "Cat aviator",
+    "image": "Kwai-Kolors_Kolors-diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 5.586,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3378809280,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Kwai-Kolors/Kolors-diffusers",
+    "title": "Kolors",
+    "style": "Oil paintining",
+    "image": "Kwai-Kolors_Kolors-diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.031,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 246046253,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Kwai-Kolors/Kolors-diffusers",
+    "title": "Kolors",
+    "style": "Toystore sketch",
+    "image": "Kwai-Kolors_Kolors-diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 5.885,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 334005839,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Kwai-Kolors/Kolors-diffusers",
+    "title": "Kolors",
+    "style": "Lego Star Wars",
+    "image": "Kwai-Kolors_Kolors-diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 6.608,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2760450394,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.72,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1906768216,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.26,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2715279103,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.339,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1541001007,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.526,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 266118628,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.027,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2883560625,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.609,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1138580955,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.56,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 984315579,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.405,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2143696676,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.482,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 690660161,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.529,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3909913405,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.781,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 4194185104,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.494,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2493105115,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.898,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3789779072,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.491,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 315011850,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.326,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2783062332,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.492,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3953207444,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.336,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 4197811528,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.595,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1781832805,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.387,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 173534797,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.778,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3010452074,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.449,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 4290595610,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.415,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3413364300,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.621,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2958752301,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.506,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3985948709,
+    "steps": 20,
+    "params": {},
+    "info": {}
   }
 ]

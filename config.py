@@ -93,4 +93,10 @@ styles = {
     "Cyberpunk city": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
     "Postapocalyptic city": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
     "Fantasy city": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "Marble sculptures": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "Cartoon staircase": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "Cat aviator": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "Oil paintining": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "Toystore sketch": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "Lego Star Wars": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
 }

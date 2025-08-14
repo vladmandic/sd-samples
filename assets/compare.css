@@ -37,7 +37,7 @@ body, input, button, h1 {
     grid-template-columns: 60px 1fr; /* Y-Axis column and main content */
     grid-template-rows: 74px 1fr;    /* X-Axis row and main content */
     width: calc(100vw - 1026px);
-    height: calc(100vh - 52px);
+    height: calc(100vh - 102px);
     overflow: auto;
 }
 
@@ -58,6 +58,7 @@ body, input, button, h1 {
     flex-direction: column;
     background-color: var(--bg-color);
     border-right: 2px solid var(--border-color);
+    border-top: 1px solid var(--border-color);
     width: 100%;
     height: 100%;
 }
@@ -98,8 +99,6 @@ body, input, button, h1 {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     background-color: var(--bg-color);
-    border-right: 2px solid var(--border-color);
-    border-bottom: 2px solid var(--border-color);
 }
 
 .grid-container {
@@ -123,7 +122,7 @@ body, input, button, h1 {
 }
 
 .grid-cell:hover:not(.empty) {
-    transform: scale(1.1);
+    transform: scale(1.2);
     box-shadow: 0 0 15px var(--accent-color);
     z-index: 10;
 }
@@ -194,25 +193,26 @@ body, input, button, h1 {
     color: #666;
 }
 
-/* Customize the entire scrollbar */
 ::-webkit-scrollbar {
-  width: 18px; /* Width of the scrollbar */
-  height: 18px; /* Height for horizontal scrollbar */
+  width: 18px;
+  height: 18px;
 }
 
-/* Track (background of the scrollbar) */
 ::-webkit-scrollbar-track {
   background: var(--bg-color);
   }
 
-/* Handle (scroll thumb) */
 ::-webkit-scrollbar-thumb {
   background: #888;
+  border-radius: 6px;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
+}
+
+::-webkit-scrollbar-corner {
+  background: unset;
 }
 
 .container {
@@ -235,6 +235,7 @@ body, input, button, h1 {
 .header {
   display: flex;
   margin-left: 60px;
+  filter: drop-shadow(2px 2px 4px var(--accent-color));
 }
 
 .heading {
@@ -267,4 +268,15 @@ a {
 
 .main-container {
   flex-grow: 1;
+}
+
+.footer {
+    padding: 14px;
+    background-color: var(--primary-surface-color);
+    color: var(--accent-color);
+}
+
+.discord {
+    text-decoration: none;
+    float: right;
 }

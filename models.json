@@ -2225,5 +2225,91 @@
     ],
     "load": 258.554,
     "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled"
+  },
+  {
+    "model": "Diffusers/Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "type": "hunyuandit",
+    "class": "HunyuanDiTPipeline",
+    "size": 0,
+    "mtime": "2025-08-13 10:58:19",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "BertModel",
+        "params": 352035840,
+        "modules": 444,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "HunyuanDiT2DModel",
+        "params": 1499952032,
+        "modules": 1774,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 1669958656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 24.381,
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled"
+  },
+  {
+    "model": "Diffusers/Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "type": "hunyuandit",
+    "class": "HunyuanDiTPipeline",
+    "size": 0,
+    "mtime": "2025-08-13 11:13:34",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "BertModel",
+        "params": 352035840,
+        "modules": 444,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "HunyuanDiT2DModel",
+        "params": 1516534048,
+        "modules": 1775,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 1669958656,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 24.59,
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled"
   }
 ]
