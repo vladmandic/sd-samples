@@ -88,7 +88,7 @@ async function main() {
   gridContainer.style.gridTemplateColumns = `repeat(${uniqueTitles.length}, 150px)`;
   gridContainer.style.gridTemplateRows = `repeat(${uniqueStyles.length}, 150px)`;
   const stats = document.getElementById('stats');
-  stats.innerHTML = `Models ${uniqueTitles.length} &nbsp | &nbsp Styles ${uniqueStyles.length} &nbsp | &nbsp Images ${imageData.length}`;
+  stats.innerHTML = `Models ${uniqueTitles.length} &nbsp | &nbsp Styles ${uniqueStyles.length} &nbsp | &nbsp Images ${uniqueTitles.length * uniqueStyles.length}/${imageData.length}`;
 
   // create datamap for quick lookups
   imageData.forEach(item => {

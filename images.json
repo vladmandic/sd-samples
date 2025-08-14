@@ -39982,5 +39982,2117 @@
     "steps": 20,
     "params": {},
     "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 17.782,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2510696580,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.609,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1375790113,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.281,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 747475861,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.339,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3463449830,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.267,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 335191690,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers",
+    "title": "HunyuanDiT-v1.2-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.765,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 251095671,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.251,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3869052178,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.396,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3642018849,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.164,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2351696135,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.071,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3278568230,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.161,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2996139331,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.2-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.2-Diffusers-Distilled",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.2-Diffusers-Distilled__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.414,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1355709909,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.753,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 236793854,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.055,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2850479021,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.088,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3848992682,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.498,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3548347108,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.476,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 1584507272,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers",
+    "title": "HunyuanDiT-v1.1-Diffusers",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.442,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1317726219,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Marble sculptures",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.163,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1868178046,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Cartoon staircase",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.26,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2637469431,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Cat aviator",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.404,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 137082796,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Oil paintining",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.165,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2604091100,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Toystore sketch",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.196,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3526457578,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+    "title": "HunyuanDiT-v1.1-Diffusers-Distilled",
+    "style": "Lego Star Wars",
+    "image": "Tencent-Hunyuan_HunyuanDiT-v1.1-Diffusers-Distilled__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 9.214,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1949977409,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "404 sign",
+    "image": "HiDream-ai_HiDream-I1-Full__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 56.398,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 227337997,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "SD.Next logo",
+    "image": "HiDream-ai_HiDream-I1-Full__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 43.181,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 3591146850,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "SD.Next neon",
+    "image": "HiDream-ai_HiDream-I1-Full__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 40.931,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 2663873901,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Cute robot",
+    "image": "HiDream-ai_HiDream-I1-Full__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.495,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 2005428086,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Large robot",
+    "image": "HiDream-ai_HiDream-I1-Full__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.527,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 184801560,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Android robot",
+    "image": "HiDream-ai_HiDream-I1-Full__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.401,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 1673703473,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Still life",
+    "image": "HiDream-ai_HiDream-I1-Full__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 40.987,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 2990901107,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Astronaut in diner",
+    "image": "HiDream-ai_HiDream-I1-Full__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.481,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 1041132797,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Bear catching fish",
+    "image": "HiDream-ai_HiDream-I1-Full__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.305,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 2359990534,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Hypercar",
+    "image": "HiDream-ai_HiDream-I1-Full__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.556,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 1605469286,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Oil canvas",
+    "image": "HiDream-ai_HiDream-I1-Full__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.818,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 303748427,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lady from Fallout",
+    "image": "HiDream-ai_HiDream-I1-Full__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.139,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 1656401544,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lady in rain",
+    "image": "HiDream-ai_HiDream-I1-Full__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.151,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 3168516872,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lady in Tokyo",
+    "image": "HiDream-ai_HiDream-I1-Full__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.872,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 805569707,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lady in bedroom",
+    "image": "HiDream-ai_HiDream-I1-Full__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.391,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 1130488819,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lady in lace",
+    "image": "HiDream-ai_HiDream-I1-Full__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.467,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 345464752,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lady in gown",
+    "image": "HiDream-ai_HiDream-I1-Full__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.836,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 566779442,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Mad max selfie",
+    "image": "HiDream-ai_HiDream-I1-Full__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.741,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 1044412249,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Party yacht",
+    "image": "HiDream-ai_HiDream-I1-Full__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.864,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 1647366811,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Pirate ship in space",
+    "image": "HiDream-ai_HiDream-I1-Full__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.454,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 4223535330,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Nier Automata",
+    "image": "HiDream-ai_HiDream-I1-Full__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.722,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 2445864241,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Yoga studio",
+    "image": "HiDream-ai_HiDream-I1-Full__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 42.316,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 2315453267,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Anime render",
+    "image": "HiDream-ai_HiDream-I1-Full__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 45.482,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 2090049655,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Anime detailed",
+    "image": "HiDream-ai_HiDream-I1-Full__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 45.555,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 3879044761,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Steampunk detailed",
+    "image": "HiDream-ai_HiDream-I1-Full__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 45.312,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 1047482535,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Steampunk hummingbird",
+    "image": "HiDream-ai_HiDream-I1-Full__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 44.768,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 51663861,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Steampunk city",
+    "image": "HiDream-ai_HiDream-I1-Full__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 52.92,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 1066559025,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Cyberpunk city",
+    "image": "HiDream-ai_HiDream-I1-Full__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 49.829,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 149476918,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Postapocalyptic city",
+    "image": "HiDream-ai_HiDream-I1-Full__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 45.816,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 572947319,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Fantasy city",
+    "image": "HiDream-ai_HiDream-I1-Full__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 44.678,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 2048049870,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Marble sculptures",
+    "image": "HiDream-ai_HiDream-I1-Full__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 44.58,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 4280614008,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Cartoon staircase",
+    "image": "HiDream-ai_HiDream-I1-Full__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 46.209,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2362424399,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Cat aviator",
+    "image": "HiDream-ai_HiDream-I1-Full__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 44.585,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 525096340,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Oil paintining",
+    "image": "HiDream-ai_HiDream-I1-Full__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 46.409,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2233549063,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Toystore sketch",
+    "image": "HiDream-ai_HiDream-I1-Full__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 46.409,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2450612618,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "HiDream-ai/HiDream-I1-Full",
+    "title": "HiDream-I1-Full",
+    "style": "Lego Star Wars",
+    "image": "HiDream-ai_HiDream-I1-Full__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 44.899,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2186775708,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "404 sign",
+    "image": "pony-edgFromZero_v20__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 12.736,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 111761895,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "SD.Next logo",
+    "image": "pony-edgFromZero_v20__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.988,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 2715579604,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "SD.Next neon",
+    "image": "pony-edgFromZero_v20__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.018,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 232873339,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Cute robot",
+    "image": "pony-edgFromZero_v20__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.078,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 3011030121,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Large robot",
+    "image": "pony-edgFromZero_v20__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.943,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 852664566,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Android robot",
+    "image": "pony-edgFromZero_v20__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.897,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 2213324526,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Still life",
+    "image": "pony-edgFromZero_v20__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.132,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 112251725,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Astronaut in diner",
+    "image": "pony-edgFromZero_v20__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.967,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 4095783684,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Bear catching fish",
+    "image": "pony-edgFromZero_v20__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.888,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 3247897770,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Hypercar",
+    "image": "pony-edgFromZero_v20__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.876,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 751350661,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Oil canvas",
+    "image": "pony-edgFromZero_v20__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.039,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 3776252086,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lady from Fallout",
+    "image": "pony-edgFromZero_v20__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.013,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 3868740920,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lady in rain",
+    "image": "pony-edgFromZero_v20__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.94,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 3359073041,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lady in Tokyo",
+    "image": "pony-edgFromZero_v20__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.109,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 196777036,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lady in bedroom",
+    "image": "pony-edgFromZero_v20__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.946,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 1734724584,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lady in lace",
+    "image": "pony-edgFromZero_v20__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.899,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 2742863820,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lady in gown",
+    "image": "pony-edgFromZero_v20__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.913,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 323273541,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Mad max selfie",
+    "image": "pony-edgFromZero_v20__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.914,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 680906053,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Party yacht",
+    "image": "pony-edgFromZero_v20__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.936,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 1565373987,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Pirate ship in space",
+    "image": "pony-edgFromZero_v20__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.046,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 4278631429,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Nier Automata",
+    "image": "pony-edgFromZero_v20__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.1,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 3250719718,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Yoga studio",
+    "image": "pony-edgFromZero_v20__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.12,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 1540667837,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Anime render",
+    "image": "pony-edgFromZero_v20__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.358,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 711270914,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Anime detailed",
+    "image": "pony-edgFromZero_v20__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.555,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 1163506352,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Steampunk detailed",
+    "image": "pony-edgFromZero_v20__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.715,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 398993184,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Steampunk hummingbird",
+    "image": "pony-edgFromZero_v20__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.445,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 3295295585,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Steampunk city",
+    "image": "pony-edgFromZero_v20__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.324,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2068551913,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Cyberpunk city",
+    "image": "pony-edgFromZero_v20__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.41,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 3081768497,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Postapocalyptic city",
+    "image": "pony-edgFromZero_v20__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.33,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 1305642580,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Fantasy city",
+    "image": "pony-edgFromZero_v20__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.955,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 4293375518,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Marble sculptures",
+    "image": "pony-edgFromZero_v20__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.95,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2178663573,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Cartoon staircase",
+    "image": "pony-edgFromZero_v20__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.277,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1088292980,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Cat aviator",
+    "image": "pony-edgFromZero_v20__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.276,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 694927047,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Oil paintining",
+    "image": "pony-edgFromZero_v20__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.303,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 2812855980,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Toystore sketch",
+    "image": "pony-edgFromZero_v20__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.24,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2094394348,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "pony-edgFromZero_v20",
+    "title": "pony-edgFromZero_v20",
+    "style": "Lego Star Wars",
+    "image": "pony-edgFromZero_v20__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.288,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1045418331,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "404 sign",
+    "image": "sdxlYamersAnime_stageAnima__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.245,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 1269004911,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "SD.Next logo",
+    "image": "sdxlYamersAnime_stageAnima__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.411,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 2559534175,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "SD.Next neon",
+    "image": "sdxlYamersAnime_stageAnima__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.243,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 237811380,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Cute robot",
+    "image": "sdxlYamersAnime_stageAnima__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.023,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 4073741671,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Large robot",
+    "image": "sdxlYamersAnime_stageAnima__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.107,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 380867919,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Android robot",
+    "image": "sdxlYamersAnime_stageAnima__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.963,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 3918772523,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Still life",
+    "image": "sdxlYamersAnime_stageAnima__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.011,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 1332372302,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Astronaut in diner",
+    "image": "sdxlYamersAnime_stageAnima__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.986,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 2135973869,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Bear catching fish",
+    "image": "sdxlYamersAnime_stageAnima__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.207,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 2608823203,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Hypercar",
+    "image": "sdxlYamersAnime_stageAnima__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.359,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 2627254285,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Oil canvas",
+    "image": "sdxlYamersAnime_stageAnima__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.442,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 6433219,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lady from Fallout",
+    "image": "sdxlYamersAnime_stageAnima__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.397,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 1106324973,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lady in rain",
+    "image": "sdxlYamersAnime_stageAnima__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.693,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 458530469,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lady in Tokyo",
+    "image": "sdxlYamersAnime_stageAnima__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.571,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 2271945794,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lady in bedroom",
+    "image": "sdxlYamersAnime_stageAnima__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.329,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 4128599949,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lady in lace",
+    "image": "sdxlYamersAnime_stageAnima__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.537,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 3641024307,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lady in gown",
+    "image": "sdxlYamersAnime_stageAnima__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.205,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 2863270294,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Mad max selfie",
+    "image": "sdxlYamersAnime_stageAnima__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.947,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 2649009283,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Party yacht",
+    "image": "sdxlYamersAnime_stageAnima__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.899,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 297507737,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Pirate ship in space",
+    "image": "sdxlYamersAnime_stageAnima__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.181,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 405287455,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Nier Automata",
+    "image": "sdxlYamersAnime_stageAnima__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.341,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 1171785000,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Yoga studio",
+    "image": "sdxlYamersAnime_stageAnima__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.144,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 639043958,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Anime render",
+    "image": "sdxlYamersAnime_stageAnima__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.934,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 2115855732,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Anime detailed",
+    "image": "sdxlYamersAnime_stageAnima__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.025,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 2079750661,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Steampunk detailed",
+    "image": "sdxlYamersAnime_stageAnima__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.305,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 1307374898,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Steampunk hummingbird",
+    "image": "sdxlYamersAnime_stageAnima__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.999,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 681818709,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Steampunk city",
+    "image": "sdxlYamersAnime_stageAnima__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.0,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 825653294,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Cyberpunk city",
+    "image": "sdxlYamersAnime_stageAnima__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.972,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 1905592144,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Postapocalyptic city",
+    "image": "sdxlYamersAnime_stageAnima__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.979,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 16362572,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Fantasy city",
+    "image": "sdxlYamersAnime_stageAnima__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 3.897,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 2948665386,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Marble sculptures",
+    "image": "sdxlYamersAnime_stageAnima__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.287,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2471090432,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Cartoon staircase",
+    "image": "sdxlYamersAnime_stageAnima__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.047,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1686448973,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Cat aviator",
+    "image": "sdxlYamersAnime_stageAnima__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.037,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1601354933,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Oil paintining",
+    "image": "sdxlYamersAnime_stageAnima__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.149,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3740604740,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Toystore sketch",
+    "image": "sdxlYamersAnime_stageAnima__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.093,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2347437230,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "sdxlYamersAnime_stageAnima",
+    "title": "sdxlYamersAnime_stageAnima",
+    "style": "Lego Star Wars",
+    "image": "sdxlYamersAnime_stageAnima__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 4.161,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 3837816750,
+    "steps": 20,
+    "params": {},
+    "info": {}
   }
 ]

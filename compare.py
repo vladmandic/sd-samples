@@ -125,7 +125,9 @@ def main(): # pylint: disable=redefined-outer-name
                     continue
                 if loaded_model != model:
                     t_load0 = time.time()
-                    request(f'/sdapi/v1/checkpoint?sd_model_checkpoint={model}', method='POST')
+                    dtype = args.pop('dtype', None)
+                    dtype = f'&dtype={dtype}' if dtype is not None else ''
+                    request(f'/sdapi/v1/checkpoint?sd_model_checkpoint={model}{dtype}', method='POST')
                     checkpoint = request('/sdapi/v1/checkpoint', method='GET')
                     t_load1 = time.time()
                     if not checkpoint or not (model in checkpoint.get('checkpoint') or model in checkpoint.get('title') or model in checkpoint.get('name')):

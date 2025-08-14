@@ -2311,5 +2311,193 @@
     ],
     "load": 24.59,
     "repo": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled"
+  },
+  {
+    "model": "Diffusers/HiDream-ai/HiDream-I1-Full",
+    "type": "h1",
+    "class": "HiDreamImagePipeline",
+    "size": 0,
+    "mtime": "2025-08-11 00:47:03",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 123781632,
+        "modules": 153,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 694840320,
+        "modules": 393,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "LlamaForCausalLM",
+        "params": 4277932032,
+        "modules": 648,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "HiDreamImageTransformer2DModel",
+        "params": 17105733184,
+        "modules": 3218,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 113.854,
+    "repo": "HiDream-ai/HiDream-I1-Full"
+  },
+  {
+    "model": "Diffusers/Wan-AI/Wan2.2-T2V-A14B-Diffusers",
+    "type": "wanai",
+    "class": "WanPipeline",
+    "size": 0,
+    "mtime": "2025-08-11 14:48:09",
+    "modules": [
+      {
+        "class": "AutoencoderKLWan",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UMT5EncoderModel",
+        "params": 3868971008,
+        "modules": 630,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "WanTransformer3DModel",
+        "params": 14288491584,
+        "modules": 1539,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "WanTransformer3DModel",
+        "params": 14288491584,
+        "modules": 1539,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 192.862,
+    "repo": "Wan-AI/Wan2.2-T2V-A14B-Diffusers"
+  },
+  {
+    "model": "pony/pony-edgFromZero_v20",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938042794,
+    "mtime": "2025-02-10 12:09:58",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 80593152,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 379267840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 14.948,
+    "repo": "pony-edgFromZero_v20"
+  },
+  {
+    "model": "sdxl/sdxlYamersAnime_stageAnima",
+    "type": "sdxl",
+    "class": "StableDiffusionXLPipeline",
+    "size": 6938040682,
+    "mtime": "2025-08-14 16:10:51",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83653863,
+        "modules": 243,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModel",
+        "params": 80593152,
+        "modules": 224,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "CLIPTextModelWithProjection",
+        "params": 379267840,
+        "modules": 586,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "UNet2DConditionModel",
+        "params": 2567463684,
+        "modules": 2673,
+        "quant": "SDNQ",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 18.762,
+    "repo": "sdxlYamersAnime_stageAnima"
   }
 ]
