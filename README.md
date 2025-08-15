@@ -5,6 +5,8 @@ Gallery additionally includes model details such as typical load and inference t
 
 [Live page](https://vladmandic.github.io/sd-samples/compare.html) | [GitHub repo](https://github.com/vladmandic/sd-samples)
 
+![sd-samples](https://github.com/user-attachments/assets/3efc8603-0766-4e4e-a4cb-d8c9b13d1e1d)
+
 > NOTE  
 > Gallery will be extended with additional model types as new models are published  
 
@@ -14,6 +16,6 @@ Gallery additionally includes model details such as typical load and inference t
   using simple script that invokes `sdnext` API  
   parameters are set to model-default values and using fixed 20-steps to ensure consistency accross all models  
   only parameter that varies is prompt itself!  
-- Compute is performed using `RTX4090` with SD.Next set to run in:  
+- Compute is performed using `RTX4090` with following SD.Next params:  
   performance mode, balanced offloading, sdnq int8 quantization  
 - Web page is a simple *HTML/JS/CSS* static page with no dependencies  
