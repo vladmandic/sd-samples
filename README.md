@@ -2,6 +2,12 @@
 
 Live page: <https://vladmandic.github.io/sd-samples/compare.html>  
 
+**SD.Next Model Samples** is a pre-generated image gallery with 60 models (45 base and 15 finetunes) and 40 styles  
+Gallery includes model details such as typical load and inference times as well as sizes and types of each model component (e.g. unet, transformer, text-encoder, vae)  
+
+> NOTE  
+> Gallery will be extended with additional model types as new models are published  
+
 ## Notes  
 
 - Images generated using [SD.Next](https://github.com/vladmandic/sdnext)  
