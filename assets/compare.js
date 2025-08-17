@@ -38,6 +38,17 @@ async function filterGrid() {
   });
 }
 
+function getSize(model) {
+  let size = 0
+  console.log('getSize', model);
+  if (model.size > 0) size = model.size;
+  const params = model.modules.reduce((sum, mod) => sum + (mod.params || 0), 0);
+  if (params > 0) size = params * 2 // assuming fp16/bf16
+  console.log('getSize', model, params, size);
+  if (size > 0) return Math.round(size / 1024 / 1024).toLocaleString() + ' MB';
+  return 'N/A';
+}
+
 async function showDetails(item) {
     // const info = JSON.parse(item.info);
     const detailsContent = document.getElementById('details-content');
@@ -53,7 +64,7 @@ async function showDetails(item) {
         <div class="column info-block">
           <p><strong>Model: </strong>${model?.repo}</p>
           <p><strong>Type: </strong>${model?.type} <strong>&nbsp Class: </strong> ${model?.class}</p>
-          <p><strong>Size: </strong>${Math.round(model?.size / 1024 / 1024).toLocaleString()} MB</p>
+          <p><strong>Size: </strong>${getSize(model)}</p>
           <p><strong>Load time: </strong>${model?.load.toFixed(1)} seconds</p>
           <p><strong>Modules: </strong>${modules}</p>
         </div>
