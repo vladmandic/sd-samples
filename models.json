@@ -2499,5 +2499,40 @@
     ],
     "load": 18.762,
     "repo": "sdxlYamersAnime_stageAnima"
+  },
+  {
+    "model": "Diffusers/Qwen/Qwen-Image-Edit",
+    "type": "qwen",
+    "class": "QwenImageEditPipeline",
+    "size": 0,
+    "mtime": "2025-08-18 14:47:46",
+    "modules": [
+      {
+        "class": "AutoencoderKLQwenImage",
+        "params": 126892531,
+        "modules": 260,
+        "quant": null,
+        "device": "cuda:0",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "Qwen2_5_VLForConditionalGeneration",
+        "params": 4419759104,
+        "modules": 1122,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "QwenImageTransformer2DModel",
+        "params": 11077414464,
+        "modules": 3143,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 91.996,
+    "repo": "Qwen/Qwen-Image-Edit"
   }
 ]

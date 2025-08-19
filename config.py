@@ -24,6 +24,7 @@ models = {
     "ostris/Flex.2-preview": {},
     "ostris/Flex.1-alpha": {},
     "Qwen/Qwen-Image": {},
+    "Qwen/Qwen-Image-Edit": {},
     "vladmandic/Qwen-Lightning": {},
     "Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers": {},
     "Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers": {},

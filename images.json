@@ -42094,5 +42094,581 @@
     "steps": 20,
     "params": {},
     "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "404 sign",
+    "image": "Qwen_Qwen-Image-Edit__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 50.832,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 3137756292,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "SD.Next logo",
+    "image": "Qwen_Qwen-Image-Edit__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.665,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 465501177,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "SD.Next neon",
+    "image": "Qwen_Qwen-Image-Edit__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.466,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 3462335381,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Cute robot",
+    "image": "Qwen_Qwen-Image-Edit__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.53,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 1369758440,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Large robot",
+    "image": "Qwen_Qwen-Image-Edit__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.523,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 3867362570,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Android robot",
+    "image": "Qwen_Qwen-Image-Edit__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.624,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 1521284787,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Still life",
+    "image": "Qwen_Qwen-Image-Edit__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.618,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 2178863448,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Astronaut in diner",
+    "image": "Qwen_Qwen-Image-Edit__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.606,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 1381811475,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Bear catching fish",
+    "image": "Qwen_Qwen-Image-Edit__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.389,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 2051039550,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Hypercar",
+    "image": "Qwen_Qwen-Image-Edit__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.361,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 3680530881,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Oil canvas",
+    "image": "Qwen_Qwen-Image-Edit__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.745,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 3976708324,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lady from Fallout",
+    "image": "Qwen_Qwen-Image-Edit__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.405,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 2747443216,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lady in rain",
+    "image": "Qwen_Qwen-Image-Edit__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.784,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 461126069,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lady in Tokyo",
+    "image": "Qwen_Qwen-Image-Edit__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.704,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 3987930014,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lady in bedroom",
+    "image": "Qwen_Qwen-Image-Edit__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.522,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 1541531198,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lady in lace",
+    "image": "Qwen_Qwen-Image-Edit__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.61,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 1952175781,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lady in gown",
+    "image": "Qwen_Qwen-Image-Edit__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.907,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 4014244977,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Mad max selfie",
+    "image": "Qwen_Qwen-Image-Edit__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.887,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 3347370162,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Party yacht",
+    "image": "Qwen_Qwen-Image-Edit__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.743,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 2775103485,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Pirate ship in space",
+    "image": "Qwen_Qwen-Image-Edit__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.879,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 329970881,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Nier Automata",
+    "image": "Qwen_Qwen-Image-Edit__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.129,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 787308556,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Yoga studio",
+    "image": "Qwen_Qwen-Image-Edit__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.56,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 1586164467,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Anime render",
+    "image": "Qwen_Qwen-Image-Edit__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.627,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 3648795165,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Anime detailed",
+    "image": "Qwen_Qwen-Image-Edit__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.49,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 1864085501,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Steampunk detailed",
+    "image": "Qwen_Qwen-Image-Edit__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 39.03,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 2834875810,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Steampunk hummingbird",
+    "image": "Qwen_Qwen-Image-Edit__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.168,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 2761296430,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Steampunk city",
+    "image": "Qwen_Qwen-Image-Edit__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.152,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2223530862,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Cyberpunk city",
+    "image": "Qwen_Qwen-Image-Edit__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.022,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 1480049675,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Postapocalyptic city",
+    "image": "Qwen_Qwen-Image-Edit__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.839,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 2357203605,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Fantasy city",
+    "image": "Qwen_Qwen-Image-Edit__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 38.376,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 1977522001,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Marble sculptures",
+    "image": "Qwen_Qwen-Image-Edit__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.986,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 123850132,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Cartoon staircase",
+    "image": "Qwen_Qwen-Image-Edit__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.822,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 62248792,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Cat aviator",
+    "image": "Qwen_Qwen-Image-Edit__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.429,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3670258996,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Oil paintining",
+    "image": "Qwen_Qwen-Image-Edit__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.659,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 601727103,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Toystore sketch",
+    "image": "Qwen_Qwen-Image-Edit__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.458,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 135749141,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "style": "Lego Star Wars",
+    "image": "Qwen_Qwen-Image-Edit__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 37.709,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 2524136031,
+    "steps": 20,
+    "params": {},
+    "info": {}
   }
 ]
