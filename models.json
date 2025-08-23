@@ -2534,5 +2534,215 @@
     ],
     "load": 91.996,
     "repo": "Qwen/Qwen-Image-Edit"
+  },
+  {
+    "model": "lodestones/Chroma1-HD",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "1969-12-31 19:00:00",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 636.335,
+    "repo": "lodestones/Chroma1-HD"
+  },
+  {
+    "model": "lodestones/Chroma1-Base",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "1969-12-31 19:00:00",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 453.145,
+    "repo": "lodestones/Chroma1-Base"
+  },
+  {
+    "model": "lodestones/Chroma1-Flash",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "1969-12-31 19:00:00",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 612.83,
+    "repo": "lodestones/Chroma1-Flash"
+  },
+  {
+    "model": "vladmandic/chroma-unlocked-v50-annealed",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "1969-12-31 19:00:00",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 727.87,
+    "repo": "vladmandic/chroma-unlocked-v50-annealed"
+  },
+  {
+    "model": "vladmandic/chroma-unlocked-v48",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "1969-12-31 19:00:00",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 607.772,
+    "repo": "vladmandic/chroma-unlocked-v48"
+  },
+  {
+    "model": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "type": "chroma",
+    "class": "ChromaPipeline",
+    "size": 0,
+    "mtime": "1969-12-31 19:00:00",
+    "modules": [
+      {
+        "class": "AutoencoderKL",
+        "params": 83819683,
+        "modules": 241,
+        "quant": null,
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "T5EncoderModel",
+        "params": 2950371328,
+        "modules": 607,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      },
+      {
+        "class": "ChromaTransformer2DModel",
+        "params": 8899983424,
+        "modules": 1565,
+        "quant": "sdnq",
+        "device": "cpu",
+        "dtype": "torch.bfloat16"
+      }
+    ],
+    "load": 618.927,
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated"
   }
 ]

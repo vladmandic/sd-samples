@@ -42670,5 +42670,3461 @@
     "steps": 20,
     "params": {},
     "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "404 sign",
+    "image": "lodestones_Chroma1-HD__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 36.411,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 23534449,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "SD.Next logo",
+    "image": "lodestones_Chroma1-HD__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.443,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 1929335081,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "SD.Next neon",
+    "image": "lodestones_Chroma1-HD__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.451,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 422529564,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Cute robot",
+    "image": "lodestones_Chroma1-HD__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.574,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 1531202318,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Large robot",
+    "image": "lodestones_Chroma1-HD__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.533,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 2624679173,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Android robot",
+    "image": "lodestones_Chroma1-HD__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.667,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 2440692001,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Still life",
+    "image": "lodestones_Chroma1-HD__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.688,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 745874426,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Astronaut in diner",
+    "image": "lodestones_Chroma1-HD__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.653,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 437652011,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Bear catching fish",
+    "image": "lodestones_Chroma1-HD__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.578,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 2713410405,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Hypercar",
+    "image": "lodestones_Chroma1-HD__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.613,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 805369669,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Oil canvas",
+    "image": "lodestones_Chroma1-HD__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.973,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 2938158480,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lady from Fallout",
+    "image": "lodestones_Chroma1-HD__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.967,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 1674432289,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lady in rain",
+    "image": "lodestones_Chroma1-HD__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 27.239,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 3239008948,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lady in Tokyo",
+    "image": "lodestones_Chroma1-HD__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.832,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 2577993056,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lady in bedroom",
+    "image": "lodestones_Chroma1-HD__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.694,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 3625895435,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lady in lace",
+    "image": "lodestones_Chroma1-HD__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.794,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 3979488697,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lady in gown",
+    "image": "lodestones_Chroma1-HD__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.806,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 1389818082,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Mad max selfie",
+    "image": "lodestones_Chroma1-HD__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.829,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 2737256937,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Party yacht",
+    "image": "lodestones_Chroma1-HD__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.807,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 3002222419,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Pirate ship in space",
+    "image": "lodestones_Chroma1-HD__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.849,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 2857683531,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Nier Automata",
+    "image": "lodestones_Chroma1-HD__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.617,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 2246863074,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Yoga studio",
+    "image": "lodestones_Chroma1-HD__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.876,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 161181792,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Anime render",
+    "image": "lodestones_Chroma1-HD__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.766,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 2184808595,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Anime detailed",
+    "image": "lodestones_Chroma1-HD__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.95,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 906614550,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Steampunk detailed",
+    "image": "lodestones_Chroma1-HD__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.025,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 3480055944,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Steampunk hummingbird",
+    "image": "lodestones_Chroma1-HD__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.666,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 647670904,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Steampunk city",
+    "image": "lodestones_Chroma1-HD__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.09,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 437216989,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Cyberpunk city",
+    "image": "lodestones_Chroma1-HD__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.085,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 3329046061,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Postapocalyptic city",
+    "image": "lodestones_Chroma1-HD__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.937,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 318869199,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Fantasy city",
+    "image": "lodestones_Chroma1-HD__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.418,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 2649139209,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Marble sculptures",
+    "image": "lodestones_Chroma1-HD__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.805,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3581557048,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Cartoon staircase",
+    "image": "lodestones_Chroma1-HD__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.8,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 1660280081,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Cat aviator",
+    "image": "lodestones_Chroma1-HD__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.041,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2663887519,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Oil paintining",
+    "image": "lodestones_Chroma1-HD__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.995,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 728539700,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Toystore sketch",
+    "image": "lodestones_Chroma1-HD__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.013,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2058785122,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-HD",
+    "title": "Chroma1-HD",
+    "style": "Lego Star Wars",
+    "image": "lodestones_Chroma1-HD__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.907,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 4147819753,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "404 sign",
+    "image": "lodestones_Chroma1-Base__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 32.139,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 835821548,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "SD.Next logo",
+    "image": "lodestones_Chroma1-Base__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 28.054,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 827959050,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "SD.Next neon",
+    "image": "lodestones_Chroma1-Base__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.295,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 1686865239,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Cute robot",
+    "image": "lodestones_Chroma1-Base__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.983,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 1090299984,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Large robot",
+    "image": "lodestones_Chroma1-Base__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.711,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 2901244343,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Android robot",
+    "image": "lodestones_Chroma1-Base__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.696,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 316885848,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Still life",
+    "image": "lodestones_Chroma1-Base__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.666,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 3349733136,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Astronaut in diner",
+    "image": "lodestones_Chroma1-Base__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.605,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 4117936114,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Bear catching fish",
+    "image": "lodestones_Chroma1-Base__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.585,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 706733119,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Hypercar",
+    "image": "lodestones_Chroma1-Base__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.996,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 155086826,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Oil canvas",
+    "image": "lodestones_Chroma1-Base__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.853,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 2275652251,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lady from Fallout",
+    "image": "lodestones_Chroma1-Base__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.443,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 2366976834,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lady in rain",
+    "image": "lodestones_Chroma1-Base__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 41.089,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 401869947,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lady in Tokyo",
+    "image": "lodestones_Chroma1-Base__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 55.907,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 1598407023,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lady in bedroom",
+    "image": "lodestones_Chroma1-Base__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 48.9,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 246453029,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lady in lace",
+    "image": "lodestones_Chroma1-Base__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.404,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 928961753,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lady in gown",
+    "image": "lodestones_Chroma1-Base__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.045,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 2688869439,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Mad max selfie",
+    "image": "lodestones_Chroma1-Base__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.716,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 1457287250,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Party yacht",
+    "image": "lodestones_Chroma1-Base__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.541,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 2623686536,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Pirate ship in space",
+    "image": "lodestones_Chroma1-Base__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.907,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 2020852967,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Nier Automata",
+    "image": "lodestones_Chroma1-Base__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.855,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 3329604978,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Yoga studio",
+    "image": "lodestones_Chroma1-Base__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.877,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 3896643883,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Anime render",
+    "image": "lodestones_Chroma1-Base__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.576,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 2875970753,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Anime detailed",
+    "image": "lodestones_Chroma1-Base__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.55,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 2853842611,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Steampunk detailed",
+    "image": "lodestones_Chroma1-Base__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.849,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 2623716319,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Steampunk hummingbird",
+    "image": "lodestones_Chroma1-Base__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.828,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 1703038955,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Steampunk city",
+    "image": "lodestones_Chroma1-Base__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.788,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 93489869,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Cyberpunk city",
+    "image": "lodestones_Chroma1-Base__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.715,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2836024146,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Postapocalyptic city",
+    "image": "lodestones_Chroma1-Base__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.704,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 3182232796,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Fantasy city",
+    "image": "lodestones_Chroma1-Base__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.998,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 2591735936,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Marble sculptures",
+    "image": "lodestones_Chroma1-Base__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.461,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 2401645132,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Cartoon staircase",
+    "image": "lodestones_Chroma1-Base__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.867,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 292531646,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Cat aviator",
+    "image": "lodestones_Chroma1-Base__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.271,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 962429653,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Oil paintining",
+    "image": "lodestones_Chroma1-Base__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.392,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3770885682,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Toystore sketch",
+    "image": "lodestones_Chroma1-Base__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.193,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 3747235977,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Base",
+    "title": "Chroma1-Base",
+    "style": "Lego Star Wars",
+    "image": "lodestones_Chroma1-Base__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.873,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 1269976247,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "404 sign",
+    "image": "lodestones_Chroma1-Flash__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 28.867,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 4104884176,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "SD.Next logo",
+    "image": "lodestones_Chroma1-Flash__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 29.166,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 192655414,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "SD.Next neon",
+    "image": "lodestones_Chroma1-Flash__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 28.395,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 136084117,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Cute robot",
+    "image": "lodestones_Chroma1-Flash__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.019,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 1419669611,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Large robot",
+    "image": "lodestones_Chroma1-Flash__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.213,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 1239730138,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Android robot",
+    "image": "lodestones_Chroma1-Flash__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.009,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 2580352593,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Still life",
+    "image": "lodestones_Chroma1-Flash__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.775,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 2117448403,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Astronaut in diner",
+    "image": "lodestones_Chroma1-Flash__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.696,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 1962966813,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Bear catching fish",
+    "image": "lodestones_Chroma1-Flash__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.862,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 3561340557,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Hypercar",
+    "image": "lodestones_Chroma1-Flash__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.095,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 1245506192,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Oil canvas",
+    "image": "lodestones_Chroma1-Flash__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.893,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 2214083939,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lady from Fallout",
+    "image": "lodestones_Chroma1-Flash__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.867,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 2563280938,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lady in rain",
+    "image": "lodestones_Chroma1-Flash__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.785,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 2913205758,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lady in Tokyo",
+    "image": "lodestones_Chroma1-Flash__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.231,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 747520366,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lady in bedroom",
+    "image": "lodestones_Chroma1-Flash__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.946,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 3403571882,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lady in lace",
+    "image": "lodestones_Chroma1-Flash__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.845,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 551182115,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lady in gown",
+    "image": "lodestones_Chroma1-Flash__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.987,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 1309987379,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Mad max selfie",
+    "image": "lodestones_Chroma1-Flash__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.668,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 387982900,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Party yacht",
+    "image": "lodestones_Chroma1-Flash__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.722,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 3945415768,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Pirate ship in space",
+    "image": "lodestones_Chroma1-Flash__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.998,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 221611630,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Nier Automata",
+    "image": "lodestones_Chroma1-Flash__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.835,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 1022836997,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Yoga studio",
+    "image": "lodestones_Chroma1-Flash__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.846,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 1568916843,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Anime render",
+    "image": "lodestones_Chroma1-Flash__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.714,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 2199407219,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Anime detailed",
+    "image": "lodestones_Chroma1-Flash__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.82,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 2293255671,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Steampunk detailed",
+    "image": "lodestones_Chroma1-Flash__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.796,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 3591310334,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Steampunk hummingbird",
+    "image": "lodestones_Chroma1-Flash__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.843,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 1330294890,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Steampunk city",
+    "image": "lodestones_Chroma1-Flash__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.709,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2799003809,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Cyberpunk city",
+    "image": "lodestones_Chroma1-Flash__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.655,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2786894811,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Postapocalyptic city",
+    "image": "lodestones_Chroma1-Flash__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.687,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 1696696835,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Fantasy city",
+    "image": "lodestones_Chroma1-Flash__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.926,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 3228993341,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Marble sculptures",
+    "image": "lodestones_Chroma1-Flash__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.771,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 1360898979,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Cartoon staircase",
+    "image": "lodestones_Chroma1-Flash__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.749,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 3275604953,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Cat aviator",
+    "image": "lodestones_Chroma1-Flash__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.641,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1667995936,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Oil paintining",
+    "image": "lodestones_Chroma1-Flash__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.889,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 3263471898,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Toystore sketch",
+    "image": "lodestones_Chroma1-Flash__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.695,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 449263189,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "lodestones/Chroma1-Flash",
+    "title": "Chroma1-Flash",
+    "style": "Lego Star Wars",
+    "image": "lodestones_Chroma1-Flash__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.754,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 339278492,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "404 sign",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.895,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 3260229973,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "SD.Next logo",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.889,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 3433344813,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "SD.Next neon",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.863,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 2653103343,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Cute robot",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.31,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 1136048672,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Large robot",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.64,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 687576889,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Android robot",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.018,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 1782609829,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Still life",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.737,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 2283821962,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Astronaut in diner",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.767,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 3402851648,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Bear catching fish",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.779,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 4127068701,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Hypercar",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.013,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 443945525,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Oil canvas",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.963,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 435348948,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lady from Fallout",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.185,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 514359703,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lady in rain",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.28,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 4232540432,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lady in Tokyo",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.975,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 1554448027,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lady in bedroom",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.984,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 2799005116,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lady in lace",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.895,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 335844713,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lady in gown",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.226,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 1699287641,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Mad max selfie",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.491,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 158070754,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Party yacht",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.824,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 2114755335,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Pirate ship in space",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.765,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 2981340399,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Nier Automata",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.66,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 1749026267,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Yoga studio",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.854,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 778277873,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Anime render",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.984,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 1334380363,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Anime detailed",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.819,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 3562828109,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Steampunk detailed",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.142,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 2737048009,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Steampunk hummingbird",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.864,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 411679767,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Steampunk city",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.06,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 1960408517,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Cyberpunk city",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.063,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2532259518,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Postapocalyptic city",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.186,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 4164085387,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Fantasy city",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.375,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 3487969543,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Marble sculptures",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.062,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3582725320,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.05,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2807462215,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Cat aviator",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.113,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 3809534479,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Oil paintining",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.091,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1650127176,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Toystore sketch",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.006,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 4227383027,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v50-annealed",
+    "title": "chroma-unlocked-v50-annealed",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_chroma-unlocked-v50-annealed__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.144,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 514531710,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "404 sign",
+    "image": "vladmandic_chroma-unlocked-v48__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.934,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 1019654877,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "SD.Next logo",
+    "image": "vladmandic_chroma-unlocked-v48__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.576,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 533921698,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "SD.Next neon",
+    "image": "vladmandic_chroma-unlocked-v48__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.926,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 583587191,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Cute robot",
+    "image": "vladmandic_chroma-unlocked-v48__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.937,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 481450195,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Large robot",
+    "image": "vladmandic_chroma-unlocked-v48__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.532,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 281452868,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Android robot",
+    "image": "vladmandic_chroma-unlocked-v48__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.558,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 2545568027,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Still life",
+    "image": "vladmandic_chroma-unlocked-v48__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.472,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 1085054448,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Astronaut in diner",
+    "image": "vladmandic_chroma-unlocked-v48__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.758,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 2444310607,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Bear catching fish",
+    "image": "vladmandic_chroma-unlocked-v48__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.581,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 410915938,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Hypercar",
+    "image": "vladmandic_chroma-unlocked-v48__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.51,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 1272989183,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Oil canvas",
+    "image": "vladmandic_chroma-unlocked-v48__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.54,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 1133836433,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lady from Fallout",
+    "image": "vladmandic_chroma-unlocked-v48__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.481,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 3961421219,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lady in rain",
+    "image": "vladmandic_chroma-unlocked-v48__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.707,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 419112214,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lady in Tokyo",
+    "image": "vladmandic_chroma-unlocked-v48__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.692,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 2794719566,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lady in bedroom",
+    "image": "vladmandic_chroma-unlocked-v48__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.687,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 3120210208,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lady in lace",
+    "image": "vladmandic_chroma-unlocked-v48__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.757,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 1872998939,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lady in gown",
+    "image": "vladmandic_chroma-unlocked-v48__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.622,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 2779865107,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Mad max selfie",
+    "image": "vladmandic_chroma-unlocked-v48__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.676,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 3900533910,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Party yacht",
+    "image": "vladmandic_chroma-unlocked-v48__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.247,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 263934206,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Pirate ship in space",
+    "image": "vladmandic_chroma-unlocked-v48__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.18,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 1894689840,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Nier Automata",
+    "image": "vladmandic_chroma-unlocked-v48__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.77,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 1451913900,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Yoga studio",
+    "image": "vladmandic_chroma-unlocked-v48__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.522,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 1557142697,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Anime render",
+    "image": "vladmandic_chroma-unlocked-v48__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.172,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 456417428,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Anime detailed",
+    "image": "vladmandic_chroma-unlocked-v48__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.45,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 1609185096,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Steampunk detailed",
+    "image": "vladmandic_chroma-unlocked-v48__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.804,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 1909173120,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Steampunk hummingbird",
+    "image": "vladmandic_chroma-unlocked-v48__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.997,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 2011123145,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Steampunk city",
+    "image": "vladmandic_chroma-unlocked-v48__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.63,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 3387378719,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Cyberpunk city",
+    "image": "vladmandic_chroma-unlocked-v48__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.86,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 3876293091,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Postapocalyptic city",
+    "image": "vladmandic_chroma-unlocked-v48__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.063,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 759588372,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Fantasy city",
+    "image": "vladmandic_chroma-unlocked-v48__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.413,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 1446853285,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Marble sculptures",
+    "image": "vladmandic_chroma-unlocked-v48__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.709,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 980770627,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_chroma-unlocked-v48__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.428,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 307020450,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Cat aviator",
+    "image": "vladmandic_chroma-unlocked-v48__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.758,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 2097168945,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Oil paintining",
+    "image": "vladmandic_chroma-unlocked-v48__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.007,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 1658529739,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Toystore sketch",
+    "image": "vladmandic_chroma-unlocked-v48__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.042,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 2864803700,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48",
+    "title": "chroma-unlocked-v48",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_chroma-unlocked-v48__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 27.139,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 907791371,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "404 sign",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__404 sign.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.972,
+    "prompt": "Old rusty '404' road sign, postapocalypse, destroyed highway, full of debris and car wrecks leading into canyon, intricate details, volumetric lighting",
+    "seed": 2780997302,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "SD.Next logo",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__SD.Next logo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.304,
+    "prompt": "'*SDNext*' text logo with abstract painted background",
+    "seed": 1510689740,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "SD.Next neon",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__SD.Next neon.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.811,
+    "prompt": "Large neon sign with text 'SDNext', futuristic sci-fi city, high detailed",
+    "seed": 594779321,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Cute robot",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Cute robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.771,
+    "prompt": "photo of a cute blue robot with glowing glyph on a chest plate next to a road sign, next to a spaceship, walking sand with battle visible in background, rich details, 4k",
+    "seed": 78387637,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Large robot",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Large robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.824,
+    "prompt": "Large robot with a humanoid head, predominantly blue and white, standing on its hind legs, arms outstretched as if in surprise, intricate mechanical parts visible on the body, glowing red eyes, detailed armor plating on its head, arm has visible joints and joint",
+    "seed": 522239935,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Android robot",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Android robot.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.215,
+    "prompt": "Photo of female android robot in white battle armor and with blonde face standing on a surface of a rocky planet with large moon visible in the background. pitch black night with stars visible. volumetric lighting, sharp shadows. boots with high heels.",
+    "seed": 4176276693,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Still life",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Still life.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.736,
+    "prompt": "A still life photograph of an antique table, large beautiful red and purple poppy blossom in a crystal vase, loose oranges and watermelon cut in half on a porcelain plate, background black, dramatic lighting",
+    "seed": 2095599754,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Astronaut in diner",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Astronaut in diner.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.502,
+    "prompt": "Photo of an astronaut eating fries at a diner, with a milkshake and burger at the table, god rays, dark helmet glass, cant see his face, cinematic, analog film, cold color palette",
+    "seed": 1466944447,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Bear catching fish",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Bear catching fish.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.219,
+    "prompt": "Photo of bear catching a fish, intricate details, sunrise, high details, inspirational, national geographics",
+    "seed": 3577717352,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Hypercar",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Hypercar.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 26.101,
+    "prompt": "Photo of a futuristic hyper car on a race track, motion blur",
+    "seed": 1014127330,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Oil canvas",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Oil canvas.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.939,
+    "prompt": "Oil canvas painting of a young woman drawing in a very clean and well organized contemporary place, wearing hair ribbon, god rays are shining through the windows creating high contrast",
+    "seed": 3712901017,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lady from Fallout",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lady from Fallout.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.465,
+    "prompt": "Photo of a beautiful woman, wearing tight dress and boots, looking at camera and with a dog next to her, walking through postapocalyptic steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle",
+    "seed": 3433138253,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lady in rain",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lady in rain.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.717,
+    "prompt": "Scene from sin city, photorealistic wet sexy young woman holding umbrella and walking in the city square, long hair, transparent wet shirt, mini skirt, buildings with neon signs, during night, visible raindrops falling, reflections on the floor, perfect face, extreme detailed, dslr, leika",
+    "seed": 2775097454,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lady in Tokyo",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lady in Tokyo.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.607,
+    "prompt": "Photo of a young woman with steel eyes, makeup and lipstick is posing in a futuristic cyberpunk style tokyo street. ground is wet with large puddles. her very long hair is flowing in the wind. she is wearing a torn tight transparent lace dress and high heel boots. light is coming from street lamps and behind windows and casting strong shadows. building has a neon sign with text 'sdnext'. full moon is rising in the background",
+    "seed": 1609138356,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lady in bedroom",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lady in bedroom.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.585,
+    "prompt": "Woman sitting in darkness with morning light moving over her body, kneeling on a bed, smooth skin in moody lighting, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
+    "seed": 2253022510,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lady in lace",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lady in lace.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.643,
+    "prompt": "Beautiful seductive woman wearing glasses, lipstick, freckles, necklace, open shirt, bare shoulders, short jacket, short skirt, lace bra and stockings, high heels, tanlines, volumetric lighting, floor reflection, shot on canon 5d, instagram post",
+    "seed": 2453529157,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lady in gown",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lady in gown.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.549,
+    "prompt": "A striking seductive maid in a timeless gown with shimmering fabric, her face lit up by soft golden light casting dramatic shadows across a velvet-laced room filled with elegant furniture and candlelight. The air hums with intrigue, blending sensual allure with refined elegance",
+    "seed": 1086615623,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Mad max selfie",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Mad max selfie.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.699,
+    "prompt": "Mad max movie sexy young woman character in dynamic poses, wide angle selfie style shot inside a vehicle, intricate, hyper-detailed, magic atmosphere, vibrant colors, hyper-realistic, detailed facial features, glowing colors, cinestill 50d",
+    "seed": 3607446356,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Party yacht",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Party yacht.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.847,
+    "prompt": "Bronze megayacht in Adriatic sea during sunset with group of women wearing colorful string bikinis and having a party on the deck",
+    "seed": 3459755500,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Pirate ship in space",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Pirate ship in space.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.63,
+    "prompt": "Pirate ship trapped in a cosmic maelstrom nebula rendered in cosmic beach whirlpool engine. volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, art nouveau style, illustration art artwork by SenseiJaye, intricate detail",
+    "seed": 3713147560,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Nier Automata",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Nier Automata.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.656,
+    "prompt": "3D render of Nier Automata 2b wearing intricate costume, high details, 4k, sun rays",
+    "seed": 2941427504,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Yoga studio",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Yoga studio.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.652,
+    "prompt": "Beautiful women practicing yoga, sweaty skin, volumetric light, in a dance studio",
+    "seed": 4125506731,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Anime render",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Anime render.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.761,
+    "prompt": "Highly detailed 3D render, Anime style, female figure approximately 25 years old, slender build with pale skin and delicate facial features. She wears a flowing white silk kimono partially open revealing her torso; intricate embroidery depicting cherry blossoms in shades of pink and gold adorns the fabric",
+    "seed": 1730705509,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Anime detailed",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Anime detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.754,
+    "prompt": "A breathtakingly rendered, highly detailed anime scene featuring a stunningly beautiful woman. She\u2019s draped across a weathered wooden porch of a sprawling, slightly dilapidated farmhouse \u2013 think exposed beams, overgrown vines, and faded floral wallpaper. Her features are exquisitely sculpted, showcasing smooth skin and perfectly defined curves. Shes adorned with flowing, crimson silk robes embroidered with intricate tribal patterns, catching the faint moonlight filtering through gaps in the roof. The lighting is deliberately dim, creating dramatic shadows and highlighting the texture of her skin and the rough wood around her. A scattering of wildflowers\u2014pale blues and purples\u2014dances near her feet",
+    "seed": 1658161427,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Steampunk detailed",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Steampunk detailed.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.65,
+    "prompt": "Young woman, late twenties, slender build, possesses strikingly silver hair woven into tight braids threaded with polished brass gears \u2013 miniature clockwork butterflies fluttering within; wears a custom-made Victorian-era uniform of deep indigo velvet overlaid with copper piping detailing, accented with glowing emerald green crystals embedded in the lapel and cuffs; reveals subtly angled, oversized goggles crafted from blackened steel reflecting the nascent sunrise; her expression is serene yet slightly melancholic, captured in a wide-angle, handheld selfie mode\u2014a single, perfectly framed lens focuses on her face as golden light spills over a rain-slicked cityscape constructed of towering gothic spires and colossal, steam-powered automatons frozen mid-motion; the air hangs thick with ozone and the scent of aged parchment and lubricating oil;  the backdrop consists of fragmented holographic advertisements for arcane technologies - swirling nebulae rendered in iridescent blues and oranges, partially obscured by dense fog illuminated by flickering gas lamps; a palpable sense of forgotten grandeur permeates the scene, imbued with subtle magical distortions suggesting echoes of past events \u2013 a lone, ornate fountain cascades silently down a moss-covered wall, its surface shimmering with trapped starlight.  Overall mood: ethereal melancholy, bordering on wonderstruck awe. Aesthetic Style: Neo-Victorian Industrial Gothic, saturated with bioluminescent flora growing along the edges of buildings.",
+    "seed": 366091539,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Steampunk hummingbird",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Steampunk hummingbird.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.606,
+    "prompt": "Time travelers in steampunk suits riding mechanical hummingbirds through shattered timelines",
+    "seed": 474046277,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Steampunk city",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Steampunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.565,
+    "prompt": "Steampunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 915624014,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Cyberpunk city",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Cyberpunk city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.842,
+    "prompt": "Cyberpunk city, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail. volumetric light, focus, wide-angle, during night",
+    "seed": 2903209967,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Postapocalyptic city",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Postapocalyptic city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.621,
+    "prompt": "Postapocalyptic large city ruins, exploration, cinematic, realistic, hyper detailed, photorealistic maximum detail, volumetric light, focus, wide-angle, brightly lit, lightning",
+    "seed": 1335407393,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Fantasy city",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Fantasy city.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.623,
+    "prompt": "fantasy city landscape with a river flowing through it, high detailed, night scene",
+    "seed": 1713324837,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Marble sculptures",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Marble sculptures.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.707,
+    "prompt": "Marble sculpture of a cute elephant next to jade sculpture of a tiger, standing in a dimly lit room with window in the background. sun is coming through the window creating high contrast",
+    "seed": 3397938242,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Cartoon staircase",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Cartoon staircase.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.587,
+    "prompt": "Cartoon image of miles into a canyon of shimmering sandstone, the explorer stands at the foot of a monumental carved staircase that stretch vanishing into golden clouds",
+    "seed": 2311985389,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Cat aviator",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Cat aviator.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.612,
+    "prompt": "Cute cat wearing aviator goggles and a leather helmet is flying a small airplane over the fantasy city during sunset, cinematic lighting",
+    "seed": 1698388205,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Oil paintining",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Oil paintining.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.646,
+    "prompt": "Oil painting of a lighthouse on a cliff during a storm, dramatic lighting, thick brushstrokes, impasto technique",
+    "seed": 929436348,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Toystore sketch",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Toystore sketch.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.668,
+    "prompt": "Color pencil sketch of a toystore with shelves full of colorful toys, children playing, bright and cheerful atmosphere, soft lines and vibrant colors",
+    "seed": 185991563,
+    "steps": 20,
+    "params": {},
+    "info": {}
+  },
+  {
+    "repo": "vladmandic/chroma-unlocked-v48-detail-calibrated",
+    "title": "chroma-unlocked-v48-detail-calibrated",
+    "style": "Lego Star Wars",
+    "image": "vladmandic_chroma-unlocked-v48-detail-calibrated__Lego Star Wars.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "time": 25.511,
+    "prompt": "Lego Star Wars scene with characters and vehicles, detailed and colorful, set in a galaxy far, far away, with stars and planets in the background. All objects and characters are made out of lego bricks",
+    "seed": 4265413430,
+    "steps": 20,
+    "params": {},
+    "info": {}
   }
 ]

@@ -18,6 +18,8 @@ models = {
     "black-forest-labs/FLUX.1-Kontext-dev": {},
     "black-forest-labs/FLUX.1-Krea-dev": {},
     "lodestones/Chroma1-HD": {},
+    "lodestones/Chroma1-Base": {},
+    "lodestones/Chroma1-Flash": {},
     "vladmandic/chroma-unlocked-v50-annealed": {},
     "vladmandic/chroma-unlocked-v48": {},
     "vladmandic/chroma-unlocked-v48-detail-calibrated": {},
